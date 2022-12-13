@@ -14,9 +14,11 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 font-uncut-sans mb-4">Find privacy in the Dark Forest</h2>
+          <h2 class="h2 font-uncut-sans mb-4">
+            Join the network of MEV bots defining the future of finance</h2>
           <div class="max-w-2xl mx-auto">
-            <p class="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.</p>
+            <p class="text-xl text-gray-400 font-bold">
+            Either if you are an experienced searcher operator or just starting the MEV game, Seachers Market will take you to the next level.</p>
           </div>
         </div>
 

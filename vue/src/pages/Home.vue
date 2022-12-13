@@ -8,10 +8,10 @@
     <main class="grow">
 
       <Hero />
-      <Features />
       <PressLogos />
+      <Features />
+      <Tiers />
       <Features02 />
-      <Pricing />
       <Resources />
       <Cta />
 
@@ -29,7 +29,7 @@ import Hero from '../partials/Hero.vue'
 import PressLogos from '../partials/PressLogos.vue'
 import Features from '../partials/Features.vue'
 import Features02 from '../partials/Features02.vue'
-import Pricing from '../partials/Pricing.vue'
+import Tiers from '../partials/Tiers.vue'
 import Resources from '../partials/Resources.vue'
 import Cta from '../partials/Cta.vue'
 import Footer from '../partials/Footer.vue'
@@ -41,8 +41,8 @@ export default {
     Hero,
     PressLogos,
     Features,
+    Tiers,
     Features02,
-    Pricing,
     Resources,
     Cta,
     Footer,

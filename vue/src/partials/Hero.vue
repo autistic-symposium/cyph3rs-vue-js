@@ -28,7 +28,7 @@
 
 
           <p class="text-xl text-gray-400 mb-10 font-bold" data-aos="zoom-out" data-aos-delay="200">
-            Play the hottest PvP game of our generation.
+            Be part of the hottest PvP game of our generation.
           </p>
 
 
