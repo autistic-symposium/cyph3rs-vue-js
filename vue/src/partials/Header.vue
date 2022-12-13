@@ -18,7 +18,7 @@
             <li class="ml-3">
 
               <router-link class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group" to="#0">
-                Connect Wallet <span class="tracking-normal text-purple-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1"></span>
+                Login to App  <span class="tracking-normal text-purple-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1"></span>
               </router-link>
             </li>
           </ul>

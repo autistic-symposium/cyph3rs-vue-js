@@ -8,11 +8,12 @@
     <main class="grow">
 
       <Hero />
-      <PressLogos />
       <Features />
+      <Cta />
+      <PressLogos />
       <Tiers />
       <Resources />
-      <Cta />
+
 
     </main>
     

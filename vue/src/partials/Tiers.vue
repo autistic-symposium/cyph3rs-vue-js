@@ -15,7 +15,7 @@
             Join the network of MEV bots defining the future of finance</h2>
           <div class="max-w-2xl mx-auto">
             <p class="text-xl text-gray-400 font-bold">
-            Either if you are an experienced searcher operator or just starting the MEV game, Seachers Market will take you to the next level.</p>
+            Either if you are an experienced searcher operator or just starting the MEV game, Searchers Market will take you to the next level.</p>
           </div>
 
           
@@ -29,7 +29,7 @@
           <!-- ----------------- -->
           <!-- ----------------- -->
 
-          <div class="relative flex flex-col h-full p-6 bg-gray-800" data-aos="zoom-out" data-aos-delay="100">
+          <div class="relative flex flex-col h-full p-6 bg-gray-800 rounded py-10 px-8 " data-aos="zoom-out" data-aos-delay="100">
             <div class="mb-6">
               
               <div class="text-lg font-bold mb-1">
@@ -80,7 +80,7 @@
           <!-- PROJECTS -->
           <!-- ----------------- -->
           <!-- ----------------- -->
-          <div class="relative flex flex-col h-full p-6 bg-gray-800" data-aos="zoom-out" data-aos-delay="100">
+          <div class="relative flex flex-col h-full p-6 bg-gray-800 rounded py-10 px-8" data-aos="zoom-out" data-aos-delay="100">
 
             <div class="mb-6">
               <div class="text-lg font-semibold mb-1">Projects and Protocols</div>
@@ -127,7 +127,7 @@
           <!-- LEARN -->
           <!-- ----------------- -->
           <!-- ----------------- -->
-          <div class="relative flex flex-col h-full p-6 bg-gray-800" data-aos="zoom-out" data-aos-delay="100">
+          <div class="relative flex flex-col h-full p-6 bg-gray-800 rounded py-10 px-8" data-aos="zoom-out" data-aos-delay="100">
             <div class="absolute top-0 right-0 mr-6 -mt-4">
               <div class="inline-flex items-center text-sm font-semibold py-1 px-3 text-emerald-600 bg-emerald-200 rounded-full">
                 <svg class="fill-emerald-500 mr-2" width="12" height="14" xmlns="http://www.w3.org/2000/svg">
