@@ -19,7 +19,7 @@
 
           </div>
           <h1 class="h1 font-uncut-sans mb-6" data-aos="zoom-out" data-aos-delay="100">The MEV marketplace for <em class="font-italic">searchers</em> and <em class="font-italic">protocols</em></h1>
-          <p class="text-xl text-gray-400 mb-10" data-aos="zoom-out" data-aos-delay="200">Let's set the Dark Forest on 🔥?</p>
+          <p class="text-xl text-gray-400 mb-10" data-aos="zoom-out" data-aos-delay="200">Let's set the Dark Forest on 🔥</p>
           <div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4" data-aos="zoom-out" data-aos-delay="300">
             <div>
               <a class="btn text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" href="#0">
