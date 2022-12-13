@@ -76,7 +76,13 @@
 }
 
 .from-green-1 {
-    --tw-gradient-from: #35605A;
-    --tw-gradient-to: #31E981;
+    --tw-gradient-from: #31e981;
+    --tw-gradient-to: #35605A;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
+.from-green-2 {
+    --tw-gradient-from: #6B818C;
+    --tw-gradient-to: #35605A;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
