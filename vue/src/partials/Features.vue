@@ -4,12 +4,8 @@
       <div class="py-12 md:py-20">
 
         <!-- Section header -->
-        <div class="text-center pb-12 md:pb-20">
-          <h2 class="h2 font-uncut-sans" data-aos="zoom-out">Connecting Searchers to Projects</h2>
-        </div>
-
-        <div class="pb-16" data-aos="zoom-out">
-          <img src="../images/features.svg" width="1104" height="512" alt="Features">
+        <div class="text-center pb-12 md:pb-20 text-gray-300">
+          <h2 class="h2 font-uncut-sans" data-aos="zoom-out">Let's set the Dark Forest on fire</h2>
         </div>
 
         <!-- Items -->
@@ -21,8 +17,8 @@
               <svg width="56" height="56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <defs>
                   <radialGradient cx="50%" cy="89.845%" fx="50%" fy="89.845%" r="89.85%" id="icon1-b">
-                    <stop stop-color="#3B82F6" stop-opacity=".64" offset="0%" />
-                    <stop stop-color="#F472B6" stop-opacity=".876" offset="100%" />
+                    <stop stop-color="#31e981" stop-opacity=".64" offset="0%" />
+                    <stop stop-color="#35605A" stop-opacity=".876" offset="100%" />
                   </radialGradient>
                   <circle id="icon1-a" cx="28" cy="28" r="28" />
                 </defs>
@@ -36,7 +32,8 @@
               </svg>
             </div>
             <h4 class="h4 text-gray-200 text-center mb-2">For Searchers</h4>
-            <p class="text-lg text-gray-400 text-center">Find bounties and opportunities for your bots.</p>
+            <p class="text-lg text-gray-400 text-center font-bold">
+                  Find projects, bounties, and opportunities for your strategies. Earn coins for fun or profit.</p>
           </div>
 
           <!-- 2nd item -->
@@ -45,8 +42,8 @@
               <svg width="56" height="56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <defs>
                   <radialGradient cx="50%" cy="89.845%" fx="50%" fy="89.845%" r="89.85%" id="icon2-b">
-                    <stop stop-color="#3B82F6" stop-opacity=".64" offset="0%" />
-                    <stop stop-color="#F472B6" stop-opacity=".876" offset="100%" />
+                    <stop stop-color="#31e981" stop-opacity=".64" offset="0%" />
+                    <stop stop-color="#35605A" stop-opacity=".876" offset="100%" />
                   </radialGradient>
                   <circle id="icon2-a" cx="28" cy="28" r="28" />
                 </defs>
@@ -60,7 +57,8 @@
               </svg>
             </div>
             <h4 class="h4 text-gray-200 text-center mb-2">For Protocols</h4>
-            <p class="text-lg text-gray-400 text-center">Hire the searchers you need for your Project.</p>
+            <p class="text-lg text-gray-400 text-center font-bold">
+              Connect to a network of searcher operators and bot builders, and find the partners for your project. </p>
           </div>
 
           <!-- 3rd item -->
@@ -69,8 +67,8 @@
               <svg width="56" height="56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <defs>
                   <radialGradient cx="50%" cy="89.845%" fx="50%" fy="89.845%" r="89.85%" id="icon3-b">
-                    <stop stop-color="#3B82F6" stop-opacity=".64" offset="0%" />
-                    <stop stop-color="#F472B6" stop-opacity=".876" offset="100%" />
+                    <stop stop-color="#31e981" stop-opacity=".64" offset="0%" />
+                    <stop stop-color="#35605A" stop-opacity=".876" offset="100%" />
                   </radialGradient>
                   <circle id="icon3-a" cx="28" cy="28" r="28" />
                 </defs>
@@ -83,8 +81,9 @@
                 </g>
               </svg>
             </div>
-            <h4 class="h4 text-gray-200 text-center mb-2">For Everybody Else</h4>
-            <p class="text-lg text-gray-400 text-center">Learn how to become a Searcher operator.</p>
+            <h4 class="h4 text-gray-200 text-center mb-2">For Players</h4>
+            <p class="text-lg text-gray-400 text-center font-bold">
+              Learn how to strategize, build, and deploy searchers. Earn coins while playing your best games.</p>
           </div>
 
         </div>

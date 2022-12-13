@@ -8,8 +8,8 @@
     <main class="grow">
 
       <Hero />
-      <PressLogos />
       <Features />
+      <PressLogos />
       <Features02 />
       <Pricing />
       <Resources />
