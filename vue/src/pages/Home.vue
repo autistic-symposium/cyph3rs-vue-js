@@ -13,7 +13,6 @@
       <Pricing />
       <Resources />
       <Cta />
-
     </main>
     
     <!-- Site footer -->
