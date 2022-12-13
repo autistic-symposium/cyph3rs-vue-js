@@ -36,9 +36,9 @@
               Searcher Operators</div>
               
               <div class="text-gray-400 mb-6 font-bold">
-                For experienced searcher operators looking for opportunities.
+                For experienced searchers looking for opportunities.
               </div>
-              <a class="btn-sm text-white bg-gradient-to-t from-green-1 hover:to-pink-500 w-full shadow-lg group font-bold" href="#searchers">
+              <a class="btn-sm text-white bg-gradient-to-t from-green-1 hover:to-pink-500 w-full shadow-lg group font-bold" href="searchers">
                 Join as a Searcher
               <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
               </a>
@@ -85,9 +85,9 @@
             <div class="mb-6">
               <div class="text-lg font-semibold mb-1">Projects and Protocols</div>
               <div class="text-gray-400 mb-6 font-bold">
-                For teams building apps for many public & private users.
+                For DeFi projects that are affected by MEV extraction.
               </div>
-              <a class="btn-sm text-white bg-gradient-to-t from-green-1 hover:to-purple-500 w-full shadow-lg group font-bold" href="#projects">
+              <a class="btn-sm text-white bg-gradient-to-t from-green-1 hover:to-purple-500 w-full shadow-lg group font-bold" href="projects">
                 Join as a Project 
               <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
               </a>
@@ -104,19 +104,19 @@
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Hire experiencied operators for your needs</span>
+                <span>Hire experienced operators for your needs</span>
               </li>
               <li class="flex items-center">
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Create competitions, bounties, and build community</span>
+                <span>Create competitions, post bounties, and build community</span>
               </li>
               <li class="flex items-center">
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Stay update with what's happening in the MEV space</span>
+                <span>Stay updated with what's happening in the MEV space</span>
               </li>
 
             </ul>
@@ -140,7 +140,7 @@
             <div class="mb-6">
               <div class="text-lg font-bold mb-1">Rookies and Builders</div>
               <div class="text-gray-400 mb-6 font-bold">
-                Learn everything you need to become a searcher operator.
+                For anyone who wants to become a successful searcher operator.
               </div>
 
               <a class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" href="learn">

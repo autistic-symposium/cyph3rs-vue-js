@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import Home from './pages/Home.vue'
 import Projects from './pages/Projects.vue'
 import Searchers from './pages/Searchers.vue'
+import Learn from './pages/Learn.vue'
 
 const routerHistory = createWebHistory()
 
@@ -28,6 +29,10 @@ const router = createRouter({
     {
       path: '/searchers',
       component: Searchers
+    },
+    {
+      path: '/learn',
+      component: Learn
     }
   ]
 })
