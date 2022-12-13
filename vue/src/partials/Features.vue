@@ -5,7 +5,7 @@
 
         <!-- Section header -->
         <div class="text-center pb-12 md:pb-20">
-          <h2 class="h2 font-uncut-sans" data-aos="zoom-out">Focus on solving bigger problems</h2>
+          <h2 class="h2 font-uncut-sans" data-aos="zoom-out">Connecting Searchers to Projects</h2>
         </div>
 
         <div class="pb-16" data-aos="zoom-out">
@@ -35,8 +35,8 @@
                 </g>
               </svg>
             </div>
-            <h4 class="h4 text-gray-200 text-center mb-2">Ready for the future</h4>
-            <p class="text-lg text-gray-400 text-center">A flexible foundation that evolves with complex ecosystem.</p>
+            <h4 class="h4 text-gray-200 text-center mb-2">For Searchers</h4>
+            <p class="text-lg text-gray-400 text-center">Find bounties and opportunities for your bots.</p>
           </div>
 
           <!-- 2nd item -->
@@ -59,8 +59,8 @@
                 </g>
               </svg>
             </div>
-            <h4 class="h4 text-gray-200 text-center mb-2">Ready for the future</h4>
-            <p class="text-lg text-gray-400 text-center">A flexible foundation that evolves with complex ecosystem.</p>
+            <h4 class="h4 text-gray-200 text-center mb-2">For Protocols</h4>
+            <p class="text-lg text-gray-400 text-center">Hire the searchers you need for your Project.</p>
           </div>
 
           <!-- 3rd item -->
@@ -83,8 +83,8 @@
                 </g>
               </svg>
             </div>
-            <h4 class="h4 text-gray-200 text-center mb-2">Ready for the future</h4>
-            <p class="text-lg text-gray-400 text-center">A flexible foundation that evolves with complex ecosystem.</p>
+            <h4 class="h4 text-gray-200 text-center mb-2">For Everybody Else</h4>
+            <p class="text-lg text-gray-400 text-center">Learn how to become a Searcher operator.</p>
           </div>
 
         </div>

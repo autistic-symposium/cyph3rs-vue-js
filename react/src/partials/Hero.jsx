@@ -33,6 +33,7 @@ function Hero() {
               The MEV marketplace for searchers and protocols <em className="font-italic">software</em>
             </h1>
             <p className="text-xl text-gray-400 mb-10" data-aos="zoom-out" data-aos-delay="200">
+              Let's set the Dark Forest on fire.
             </p>
             <div
               className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4"

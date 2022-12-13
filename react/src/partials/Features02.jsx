@@ -16,7 +16,7 @@ function Features02() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 font-uncut-sans mb-4">Use sensitive data without sacrificing privacy</h2>
+            <h2 className="h2 font-uncut-sans mb-4">Find privacy and security in the Dark Forest</h2>
             <div className="max-w-2xl mx-auto">
               <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est.</p>
             </div>
