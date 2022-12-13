@@ -52,3 +52,31 @@
         transform: scale(1.05)
     }
 }
+
+/* add custom colors*/
+
+.text-green-1 {
+    --tw-text-opacity: 1;
+    color: rgb(49 233 129 / var(--tw-text-opacity));
+}
+
+.text-green-2 {
+    --tw-text-opacity: 1;
+    color: rgb(53 96 90 / var(--tw-text-opacity));
+}
+
+.text-green-3 {
+    --tw-text-opacity: 1;
+    color: rgb(107 129 140 / var(--tw-text-opacity));
+}
+
+.bg-green-1 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(49 233 129 / var(--tw-bg-opacity));
+}
+
+.from-green-1 {
+    --tw-gradient-from: #35605A;
+    --tw-gradient-to: #31E981;
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
