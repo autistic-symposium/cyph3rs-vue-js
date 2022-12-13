@@ -22,12 +22,12 @@
           <p class="text-xl text-gray-400 mb-10" data-aos="zoom-out" data-aos-delay="200">Let's set the Dark Forest on 🔥</p>
           <div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4" data-aos="zoom-out" data-aos-delay="300">
             <div>
-              <a class="btn text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" href="#0">
+              <a class="btn text-white bg-gradient-to-t from-blue-600 to-blue-400 hover:to-blue-500 w-full shadow-lg group" href="searchers">
                 Become a Searcher <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1"></span>
               </a>
             </div>
             <div>
-              <a class="btn text-gray-300 bg-gradient-to-t from-purple-800 to-purple-700 hover:to-gray-800 w-full shadow-lg" href="#0">Hire a Searcher</a>
+              <a class="btn text-gray-300 bg-gradient-to-t from-purple-800 to-purple-700 hover:to-gray-800 w-full shadow-lg" href="projectsg">Hire a Searcher</a>
             </div>
           </div>
 
