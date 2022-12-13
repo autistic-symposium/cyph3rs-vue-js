@@ -27,7 +27,7 @@
               </a>
             </div>
             <div>
-              <a class="btn text-gray-300 bg-gradient-to-t from-purple-800 to-purple-700 hover:to-gray-800 w-full shadow-lg" href="projectsg">Hire a Searcher</a>
+              <a class="btn text-gray-300 bg-gradient-to-t from-purple-800 to-purple-700 hover:to-gray-800 w-full shadow-lg" href="projects">Hire a Searcher</a>
             </div>
           </div>
 
