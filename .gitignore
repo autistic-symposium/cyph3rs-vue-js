@@ -32,3 +32,8 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local

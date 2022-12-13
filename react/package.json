@@ -1,6 +1,6 @@
 {
-  "name": "neon-react",
-  "version": "0.1.0",
+  "name": "searchers-react",
+  "version": "0.0.1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
