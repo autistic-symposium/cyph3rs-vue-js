@@ -6,7 +6,7 @@
 
     <!-- Illustration -->
     <div class="absolute left-1/2 -translate-x-1/2 pointer-events-none -z-10" aria-hidden="true">
-      <img src="../images/hero-illustration.svg" class="max-w-none" width="2143" height="737" alt="Hero Illustration">
+      <img src="../images/hero-illustration.svg" class="max-w-none" width="2143" height="737" alt="Searchers Lane">
     </div>
 
     <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
@@ -18,7 +18,7 @@
           <div data-aos="zoom-out">
 
           </div>
-          <h1 class="h1 font-uncut-sans mb-6" data-aos="zoom-out" data-aos-delay="100">The MEV marketplace for <em class="font-italic">searchers</em> and <em class="font-italic">protocols</em></h1>
+          <h1 class="h1 font-uncut-sans mb-6" data-aos="zoom-out" data-aos-delay="100" font-color=#35605a>The MEV marketplace for <em class="font-italic ">searchers</em> and <em class="font-italic">protocols</em></h1>
           <p class="text-xl text-gray-400 mb-10" data-aos="zoom-out" data-aos-delay="200">Let's set the Dark Forest on 🔥</p>
           <div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4" data-aos="zoom-out" data-aos-delay="300">
             <div>

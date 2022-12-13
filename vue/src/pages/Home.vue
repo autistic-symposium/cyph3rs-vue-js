@@ -8,11 +8,9 @@
     <main class="grow">
 
       <Hero />
-      <PressLogos />
       <Features />
       <Features02 />
       <Pricing />
-      <Testimonials />
       <Resources />
       <Cta />
 
