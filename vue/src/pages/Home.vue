@@ -11,7 +11,6 @@
       <PressLogos />
       <Features />
       <Tiers />
-      <Features02 />
       <Resources />
       <Cta />
 
@@ -28,7 +27,6 @@ import Header from '../partials/Header.vue'
 import Hero from '../partials/Hero.vue'
 import PressLogos from '../partials/PressLogos.vue'
 import Features from '../partials/Features.vue'
-import Features02 from '../partials/Features02.vue'
 import Tiers from '../partials/Tiers.vue'
 import Resources from '../partials/Resources.vue'
 import Cta from '../partials/Cta.vue'
@@ -42,7 +40,6 @@ export default {
     PressLogos,
     Features,
     Tiers,
-    Features02,
     Resources,
     Cta,
     Footer,
