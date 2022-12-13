@@ -5,14 +5,16 @@
 
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 font-uncut-sans">Raid with us</h2>
+          <h2 class="h2 font-uncut-sans">
+          Shall we raid?
+          </h2>
         </div>
 
         <!-- Content -->
         <div>
 
           <!-- Boxes -->
-          <div class="max-w-sm mx-auto sm:max-w-none grid gap-12 sm:grid-cols-2 md:grid-cols-6 sm:gap-x-6 sm:gap-y-8">
+          <div class="max-w-sm mx-auto sm:max-w-none grid gap-12 sm:grid-cols-2 md:grid-cols-7 sm:gap-x-7 sm:gap-y-8">
 
             <!-- 1st Box -->
             <a class="block relative p-5 group" 
@@ -36,7 +38,7 @@
               <div class="font-uncut-sans text-xl text-gray-100 font-bold">Discord</div>
             </a>
 
-            <!-- 3rd Box -->
+            <!-- mirror -->
             <a class="block relative p-5 group" href="#0">
               <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22" height="22" xmlns="http://www.w3.org/2000/svg">
@@ -46,9 +48,27 @@
               <div class="font-uncut-sans text-xl text-gray-100 font-bold">Mirror</div>
             </a>
 
-            <!-- 4th Box -->
+            <!-- twitter-->
+            <a class="block relative p-5 group" href="#0" >
+              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
+            <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22" height="22" xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 511.537 511.537">
+              <path d="M357.038,49.172c-59.284,0.898-105.993,52.098-105.993,111.382v14.372
+              C145.052,156.063,92.954,127.319,35.466,67.137c-34.133,66.47,3.593,122.161,44.912,152.702c-27.846,0-51.2-3.593-69.165-19.761
+              c-1.796-0.898-3.593,0-2.695,1.797c15.27,55.691,67.368,96.112,107.789,107.789c-36.828,0-61.081,5.389-87.13-10.779
+              c-1.796-0.898-3.593,0-2.695,1.796c19.761,54.793,59.284,71.86,116.772,71.86c-28.744,21.558-67.368,43.116-140.126,44.912
+              c-2.695,0-4.491,3.593-1.796,5.389c26.947,22.456,93.418,39.523,186.835,39.523c153.6,0,278.456-136.533,278.456-305.404v-8.982
+              c24.253-8.982,37.726-30.54,44.912-52.098c0-0.898-0.898-1.796-1.797-1.796l-51.2,17.965c-0.898,0-1.796-1.796-0.898-2.695
+              C479.2,92.288,495.368,70.73,502.554,50.07c0,0-0.898-0.898-1.797-0.898c-24.253,9.881-47.607,19.761-65.572,25.151
+              c-2.695,0.898-6.288,0.898-8.982-0.898C414.526,67.137,379.494,49.172,357.038,49.172"/>
+                </svg>
+              </div>
+              <div class="font-uncut-sans text-xl text-gray-100 font-bold">Twitter</div>
+            </a>
+
+            <!-- github -->
             <a class="block relative p-5 group" href="https://github.com/searchers-market">
-              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 before:content-[''] before:absolute before:-z-10 before:inset-0 before:-m-0.5 before:bg-gradient-to-t before:from-gray-800 before:to-gray-800 before:via-gray-600 before:rounded-full">
+              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="24" height="24" xmlns="http://www.w3.org/2000/svg">
                   <path d="M12 0C5.4 0 0 5.4 0 12c0 5.3 3.4 9.8 8.2 11.4.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.5-1.4-1.3-1.8-1.3-1.8-1.2-.7 0-.7 0-.7 1.2.1 1.8 1.2 1.8 1.2 1.1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.3-5.5-5.9 0-1.3.5-2.4 1.2-3.2 0-.4-.5-1.6.2-3.2 0 0 1-.3 3.3 1.2 1-.3 2-.4 3-.4s2 .1 3 .4C17.3 4.6 18.3 5 18.3 5c.7 1.7.2 2.9.1 3.2.8.8 1.2 1.9 1.2 3.2 0 4.6-2.8 5.6-5.5 5.9.4.4.8 1.1.8 2.2v3.3c0 .3.2.7.8.6 4.8-1.6 8.2-6.1 8.2-11.4C24 5.4 18.6 0 12 0Z" fill-rule="nonzero" />
                 </svg>
@@ -58,7 +78,7 @@
 
             <!-- 5th Box -->
             <a class="block relative p-5 group" href="#0">
-              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 before:content-[''] before:absolute before:-z-10 before:inset-0 before:-m-0.5 before:bg-gradient-to-t before:from-gray-800 before:to-gray-800 before:via-gray-600 before:rounded-full">
+              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="23" height="23" xmlns="http://www.w3.org/2000/svg">
                   <path d="M4.924 19h6.927l5.128 1.386 3.399-12.548L16 6.654V4.582l5.859 1.586a1 1 0 0 1 .704 1.226l-3.913 14.48a1 1 0 0 1-1.226.705l-12.55-3.393.05-.186Z" fill-rule="nonzero" fill-opacity=".64" />
                   <rect width="14" height="17" rx="1" />
@@ -69,7 +89,7 @@
 
             <!-- 6th Box -->
             <a class="block relative p-5 group" href="#0" >
-              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 before:content-[''] before:absolute before:-z-10 before:inset-0 before:-m-0.5 before:bg-gradient-to-t before:from-gray-800 before:to-gray-800 before:via-gray-600 before:rounded-full">
+              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22" height="18" xmlns="http://www.w3.org/2000/svg">
                   <path d="M21.083 0H.917C.41 0 0 .448 0 1v16c0 .552.41 1 .917 1h20.166c.507 0 .917-.448.917-1V1c0-.552-.41-1-.917-1ZM9 13V5l6 4-6 4Z" fill-rule="nonzero" />
                 </svg>
