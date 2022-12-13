@@ -8,11 +8,13 @@
     <main class="grow">
 
       <Hero />
+      <PressLogos />
       <Features />
       <Features02 />
       <Pricing />
       <Resources />
       <Cta />
+
     </main>
     
     <!-- Site footer -->
@@ -24,6 +26,7 @@
 <script>
 import Header from '../partials/Header.vue'
 import Hero from '../partials/Hero.vue'
+import PressLogos from '../partials/PressLogos.vue'
 import Features from '../partials/Features.vue'
 import Features02 from '../partials/Features02.vue'
 import Pricing from '../partials/Pricing.vue'
@@ -36,6 +39,7 @@ export default {
   components: {
     Header,
     Hero,
+    PressLogos,
     Features,
     Features02,
     Pricing,
