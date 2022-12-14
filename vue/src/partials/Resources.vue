@@ -18,7 +18,7 @@
 
             <!-- 1st Box -->
             <a class="block relative p-5 group" 
-            href="#0">
+            href="https://t.me/searchers_market">
               <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="26" height="18" xmlns="http://www.w3.org/2000/svg">
                   <path d="M21.956.378a.47.47 0 0 0-.32-.347 1.662 1.662 0 0 0-.866.061S1.494 6.968.393 7.73c-.236.164-.316.26-.355.371-.19.546.402.78.402.78l4.968 1.607c.084.015.17.01.252-.015 1.13-.708 11.366-7.126 11.961-7.342.092-.027.162 0 .144.069-.237.823-9.083 8.622-9.131 8.669a.181.181 0 0 0-.066.16l-.464 4.815s-.194 1.498 1.315 0a42.204 42.204 0 0 1 2.612-2.373c1.708 1.171 3.546 2.466 4.339 3.143.27.26.633.398 1.008.385a1.13 1.13 0 0 0 .964-.849s3.51-14.03 3.627-15.909c.012-.182.028-.302.03-.428a1.591 1.591 0 0 0-.043-.435Z" fill-rule="nonzero" />
@@ -39,7 +39,7 @@
             </a>
 
             <!-- mirror -->
-            <a class="block relative p-5 group" href="#0">
+            <a class="block relative p-5 group" href="https://mirror.xyz/searchers-market.eth">
               <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22" height="22" xmlns="http://www.w3.org/2000/svg">
                   <path d="M21.083 0H.917A.917.917 0 0 0 0 .917v20.166c0 .507.41.917.917.917h20.166c.507 0 .917-.41.917-.917V.917A.917.917 0 0 0 21.083 0Zm-2.145 4.686L17.651 5.92a.376.376 0 0 0-.143.361v9.068a.376.376 0 0 0 .143.361l1.257 1.234v.271h-6.322v-.271l1.3-1.264c.128-.128.128-.166.128-.361V7.99l-3.621 9.2h-.489l-4.213-9.2v6.163a.85.85 0 0 0 .233.707l1.694 2.054v.271h-4.8v-.271l1.691-2.054a.82.82 0 0 0 .218-.707V7.027a.625.625 0 0 0-.2-.527L3.019 4.686v-.271h4.674l3.613 7.924 3.176-7.924h4.456v.271Z" fill-rule="nonzero" />
@@ -88,7 +88,7 @@
             </a>
 
             <!-- 6th Box -->
-            <a class="block relative p-5 group" href="#0" >
+            <a class="block relative p-5 group" href="https://www.youtube.com/@searchers.market" >
               <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22" height="18" xmlns="http://www.w3.org/2000/svg">
                   <path d="M21.083 0H.917C.41 0 0 .448 0 1v16c0 .552.41 1 .917 1h20.166c.507 0 .917-.448.917-1V1c0-.552-.41-1-.917-1ZM9 13V5l6 4-6 4Z" fill-rule="nonzero" />
