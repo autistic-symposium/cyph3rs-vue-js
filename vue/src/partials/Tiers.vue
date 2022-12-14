@@ -3,7 +3,7 @@
 
     <!-- Illustration -->
     <div class="hidden lg:block absolute bottom-0 left-1/2 -translate-x-1/2 pointer-events-none -z-10" aria-hidden="true">
-      <img src="../images/pricing-illustration.svg" class="max-w-none" width="618" height="468" alt="Join Seachers">
+      <img src="../images/pricing-illustration.svg" class="max-w-none" width="618" height="468" alt="Join Searchers">
     </div>
 
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
