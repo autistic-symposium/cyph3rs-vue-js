@@ -83,8 +83,9 @@
             </div>
             <h4 class="h4 text-gray-200 text-center mb-2">For Builders</h4>
             <p class="text-lg text-gray-400 text-center font-bold">
-              Learn everything you need to get started strategizing, building, and deploying searchers. </p>
-          </div>
+              Learn everything you need to strategize, build, and deploy searchers.
+              </p>
+            </div>
 
         </div>
 
