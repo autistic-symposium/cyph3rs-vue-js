@@ -94,7 +94,7 @@
                   <path d="M21.083 0H.917C.41 0 0 .448 0 1v16c0 .552.41 1 .917 1h20.166c.507 0 .917-.448.917-1V1c0-.552-.41-1-.917-1ZM9 13V5l6 4-6 4Z" fill-rule="nonzero" />
                 </svg>
               </div>
-              <div class="font-uncut-sans text-xl text-gray-100 font-bold">Tutorials</div>
+              <div class="font-uncut-sans text-xl text-gray-100 font-bold">YouTube</div>
             </a>
 
           </div>
