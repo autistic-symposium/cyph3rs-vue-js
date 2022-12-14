@@ -23,6 +23,17 @@ import Footer from '../partials/Footer.vue'
 
 export default {
   name: 'Privacy',
+  props: ['title'],
+  watch: {
+            title: {
+                immediate: true,
+                handler() {
+                    document.title = 'Privacy Policy - Searchers Market';
+                }
+            }
+        },
+        render () {
+        },
   components: {
     Header,
     PrivacyText,

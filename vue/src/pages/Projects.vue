@@ -24,6 +24,17 @@ import Footer from '../partials/Footer.vue'
 
 export default {
   name: 'Projects',
+  props: ['title'],
+  watch: {
+            title: {
+                immediate: true,
+                handler() {
+                    document.title = 'Projects - Searchers Market';
+                }
+            }
+        },
+        render () {
+        },
   components: {
     Header,
     ProjectsText,

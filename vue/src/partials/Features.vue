@@ -83,7 +83,7 @@
             </div>
             <h4 class="h4 text-gray-200 text-center mb-2">For Builders</h4>
             <p class="text-lg text-gray-400 text-center font-bold">
-              Learn how to strategize, build, and deploy searchers. Earn coins while playing your best games.</p>
+              Learn everything you need to get started strategizing, building, and deploying searchers. </p>
           </div>
 
         </div>

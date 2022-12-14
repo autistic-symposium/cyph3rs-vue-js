@@ -34,7 +34,7 @@
           <!-- CTA button -->
           <div class="shrink-0">
             
-            <router-link class="btn text-gray-200 bg-gradient-to-t from-green-1 hover:to-purple-800 w-full group shadow-lg font-bold" to="/learn">
+            <router-link class="btn text-gray-200 bg-gradient-to-t from-green-1 hover:to-purple-800 w-full group shadow-lg font-bold" to="/rookies">
                     Become a web3 legend <span class="tracking-normal text-purple-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                </router-link>
           </div>

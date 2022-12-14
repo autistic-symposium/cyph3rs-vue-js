@@ -35,13 +35,13 @@
           <div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4" data-aos="zoom-out" data-aos-delay="300">
             <div>
               <router-link  class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-pink-600 w-full shadow-lg group font-bold" 
-                to="/searcher">
+                to="/searchers">
                 Become a Searcher 
                </router-link>
             </div>
 
             <div>
-              <router-link class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-blue-600 w-full shadow-lg font-bold" to="/project">
+              <router-link class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-blue-600 w-full shadow-lg font-bold" to="/projects">
                Hire a Searcher
                </router-link>
 

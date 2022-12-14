@@ -7,7 +7,7 @@
     <!-- Page content -->
     <main class="grow">
 
-      <LearnText />
+      <RookiesText />
 
     </main>
     
@@ -19,14 +19,25 @@
 
 <script>
 import Header from '../partials/Header.vue'
-import LearnText from '../partials/LearnText.vue'
+import RookiesText from '../partials/RookiesText.vue'
 import Footer from '../partials/Footer.vue'
 
 export default {
-  name: 'Learn',
+  name: 'Rookies',
+  props: ['title'],
+  watch: {
+            title: {
+                immediate: true,
+                handler() {
+                    document.title = 'Rookies - Searchers Market';
+                }
+            }
+        },
+        render () {
+        },
   components: {
     Header,
-    LearnText,
+    RookiesText,
     Footer,
 },
 }

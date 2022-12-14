@@ -39,7 +39,7 @@
                 For experienced searchers looking for great opportunities.
               </div>
 
-              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/searcher">
+              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/searchers">
                Join as a Searcher
                 <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                </router-link>
@@ -91,7 +91,7 @@
                 For DeFi projects that are affected by MEV extraction.
               </div>
 
-              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/project">
+              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/projects">
                Join as a Project
                 <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                </router-link>
@@ -129,7 +129,7 @@
 
 
 
-          <!-- LEARN -->
+          <!-- ROOKIE -->
           <!-- ----------------- -->
           <!-- ----------------- -->
           <div class="relative flex flex-col h-full p-6 bg-gray-800 rounded py-10 px-8" data-aos="zoom-out" data-aos-delay="100">
@@ -148,8 +148,8 @@
                 For anyone who wants to become a successful searcher operator.
               </div>
 
-              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/learn">
-               Join as a Builder
+              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/rookies">
+               Join as a Rookie
                 <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                </router-link>
             </div>

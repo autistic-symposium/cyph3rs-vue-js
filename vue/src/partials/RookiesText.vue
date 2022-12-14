@@ -5,7 +5,7 @@
     <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
       <div class="pt-32 pb-12 md:pt-40 md:pb-20">
 
-        Learn Dashboard. Stay tuned.
+        Rookies Dashboard. Stay tuned.
 
       </div>
     </div>
@@ -15,7 +15,7 @@
 
 <script>
 export default {
-  name: 'LearnText',
+  name: 'RookiesText',
 }
 </script>
 

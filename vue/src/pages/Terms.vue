@@ -24,6 +24,18 @@ import Footer from '../partials/Footer.vue'
 
 export default {
   name: 'Terms',
+  props: ['title'],
+  watch: {
+            title: {
+                immediate: true,
+                handler() {
+                    document.title = 'Terms of Service - Searchers Market';
+                }
+            }
+        },
+        render () {
+        },
+
   components: {
     Header,
     TermsText,
