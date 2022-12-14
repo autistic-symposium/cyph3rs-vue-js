@@ -8,33 +8,23 @@
 
             <div class="lg:col-span-1">
               <h6 class="text-s font-bold mb-2">
-              <router-link class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" to="/privacy">
+              <router-link class="text-gray-600 hover:text-green-400 transition duration-150 ease-in-out font-bold" to="/privacy">
               Privacy Policy
               </router-link></h6>
+
+            </div>
+
+
+            <div class="lg:col-span-1">
               <h6 class="text-s font-bold mb-2">
-              <router-link class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" to="/terms">
+              <router-link class="text-gray-600 hover:text-green-400 transition duration-150 ease-in-out font-bold" to="/terms">
               Terms of Service
               </router-link></h6>
             </div>
 
-
             <div class="lg:col-span-1">
-              <h6 class="text-s font-bold mb-2">
-              <router-link class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" to="/about">
-              About
-              </router-link></h6>
-              <h6 class="text-s font-bold mb-2">
-              <router-link class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" to="/careers">
-              Careers
-              </router-link></h6>
-            </div>
-
-            <div class="lg:col-span-1">
-              <h6 class="text-xs text-gray-400 font-bold mb-2">
-              © Copyright 2022 
-              <br>Searchers Market. 
-              <br>
-              All Rights Reserved.
+              <h6 class="text-xs text-gray-600 font-bold mb-2">
+              © Copyright 2022 Searchers Market. All Rights Reserved.
               </h6>
             </div>
 

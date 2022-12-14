@@ -3,8 +3,6 @@ import Home from './pages/Home.vue'
 import Projects from './pages/Projects.vue'
 import Searchers from './pages/Searchers.vue'
 import Rookies from './pages/Rookies.vue'
-import About from './pages/About.vue'
-import Careers from './pages/Careers.vue'
 import Terms from './pages/Terms.vue'
 import Privacy from './pages/Privacy.vue'
 
@@ -37,14 +35,6 @@ const router = createRouter({
     {
       path: '/rookies',
       component: Rookies
-    },
-    {
-      path: '/about',
-      component: About
-    },
-    {
-      path: '/careers',
-      component: Careers
     },
     {
       path: '/terms',
