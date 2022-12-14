@@ -15,7 +15,7 @@
             Join the network of MEV bots defining the future of finance</h2>
           <div class="max-w-2xl mx-auto">
             <p class="text-xl text-gray-400 font-bold">
-            Either if you are an experienced searcher operator or just starting the MEV game, Searchers Market will take you to the next level.</p>
+            Whether you are an experienced searcher operator or just starting the MEV game, Searchers Market will take you to the next level.</p>
           </div>
 
           
