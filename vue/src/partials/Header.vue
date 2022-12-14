@@ -5,9 +5,11 @@
 
         <!-- Site branding -->
         <div class="text-xl text-gray-200 font-bold">
-            
-          Searchers.Market
           
+          <router-link to="/">
+            Searchers.Market
+          </router-link>
+
         </div>
 
         <!-- Desktop navigation -->
