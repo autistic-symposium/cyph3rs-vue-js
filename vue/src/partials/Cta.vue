@@ -28,7 +28,7 @@
 
             <p class="text-gray-900 font-bold">
             Learn from our classes, bot templates, and state-of-art research.
-            Design smart strategies and conquer the chains while building reputation.</p>
+            Design smart strategies and conquer the chains while building your reputation.</p>
           </div>
 
           <!-- CTA button -->

@@ -36,7 +36,7 @@
               Searcher Operators</div>
               
               <div class="text-gray-400 mb-6 font-bold">
-                For experienced searchers looking for opportunities.
+                For experienced searchers looking for great opportunities.
               </div>
               <a class="btn-sm text-white bg-gradient-to-t from-green-1 hover:to-pink-500 w-full shadow-lg group font-bold" href="searchers">
                 Join as a Searcher
@@ -49,7 +49,7 @@
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Access our research with successful strategies and 
+                <span>Access to our research on successful strategies and 
                 analysis of retired bots</span>
               </li>
               
@@ -59,19 +59,20 @@
                 </svg>
                 <span>Browse for bounties and get matched to projects</span>
               </li>
-              <li class="flex items-center">
-                <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
-                </svg>
-                <span>Build reputation and become a web3 legend</span>
-              
-              </li>
-              <li class="flex items-center">
+            <li class="flex items-center">
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
                 <span>Connect with other searcher operators</span>
               </li>
+              <li class="flex items-center">
+                <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
+                </svg>
+                <span>Build your reputation and become a web3 legend</span>
+              
+              </li>
+
             </ul>
           </div>
 
@@ -154,7 +155,7 @@
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Understand what's MEV and the current landscape</span>
+                <span>Understand MEV extraction, the actors, and the current landscape</span>
               </li>
               <li class="flex items-center">
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -166,13 +167,13 @@
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Learn how to choose profitable strategies on your chain of choice</span>
+                <span>Learn how to design profitable strategies on your chain of choice</span>
               </li>
               <li class="flex items-center">
                 <svg class="w-3 h-3 fill-current text-emerald-500 mr-3 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                   <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Connect to projects and other operators</span>
+                <span>Connect with projects and other operators</span>
               </li>
 
 
