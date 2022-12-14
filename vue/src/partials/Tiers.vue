@@ -38,10 +38,12 @@
               <div class="text-gray-400 mb-6 font-bold">
                 For experienced searchers looking for great opportunities.
               </div>
-              <a class="btn-sm text-white bg-gradient-to-t from-green-1 hover:to-pink-500 w-full shadow-lg group font-bold" href="searchers">
-                Join as a Searcher
-              <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-              </a>
+
+              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/searcher">
+               Join as a Searcher
+                <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+               </router-link>
+
             </div>
 
             <ul class="text-gray-400 space-y-3 grow">
@@ -88,10 +90,12 @@
               <div class="text-gray-400 mb-6 font-bold">
                 For DeFi projects that are affected by MEV extraction.
               </div>
-              <a class="btn-sm text-white bg-gradient-to-t from-green-1 hover:to-purple-500 w-full shadow-lg group font-bold" href="projects">
-                Join as a Project 
-              <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-              </a>
+
+              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/project">
+               Join as a Project
+                <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+               </router-link>
+
             </div>
             <ul class="text-gray-400 space-y-3 grow">
 
@@ -144,10 +148,10 @@
                 For anyone who wants to become a successful searcher operator.
               </div>
 
-              <a class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" href="learn">
+              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/learn">
                Join as a Builder
                 <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
-              </a>
+               </router-link>
             </div>
 
             <ul class="text-gray-400 space-y-3 grow">

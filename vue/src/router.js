@@ -27,11 +27,11 @@ const router = createRouter({
       component: Home
     },
     {
-      path: '/projects',
+      path: '/project',
       component: Projects
     },
     {
-      path: '/searchers',
+      path: '/searcher',
       component: Searchers
     },
     {
