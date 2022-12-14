@@ -3,9 +3,9 @@ import Home from './pages/Home.vue'
 import Projects from './pages/Projects.vue'
 import Searchers from './pages/Searchers.vue'
 import Learn from './pages/Learn.vue'
-import Terms from './pages/Terms.vue'
 import About from './pages/About.vue'
 import Careers from './pages/Careers.vue'
+import Terms from './pages/Terms.vue'
 import Privacy from './pages/Privacy.vue'
 
 const routerHistory = createWebHistory()
@@ -43,16 +43,16 @@ const router = createRouter({
       component: About
     },
     {
-      path: '/privacy',
-      component: Privacy
+      path: '/careers',
+      component: Careers
     },
     {
       path: '/terms',
       component: Terms
     },
     {
-      path: '/careers',
-      component: Careers
+      path: '/privacy',
+      component: Privacy
     }
   ]
 })
