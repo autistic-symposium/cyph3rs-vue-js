@@ -35,6 +35,17 @@ import Footer from '../partials/Footer.vue'
 
 export default {
   name: 'Home',
+  props: ['title'],
+  watch: {
+            title: {
+                immediate: true,
+                handler() {
+                    document.title = 'Searchers Market';
+                }
+            }
+        },
+        render () {
+        },
   components: {
     Header,
     Hero,
