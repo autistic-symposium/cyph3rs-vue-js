@@ -16,6 +16,27 @@
           <!-- Boxes -->
           <div class="max-w-sm mx-auto sm:max-w-none grid gap-12 sm:grid-cols-2 md:grid-cols-7 sm:gap-x-7 sm:gap-y-8">
 
+            <!-- mirror -->
+            <a class="block relative p-5 group" href="https://mirror.xyz/searchers-market.eth">
+              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
+                <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M21.083 0H.917A.917.917 0 0 0 0 .917v20.166c0 .507.41.917.917.917h20.166c.507 0 .917-.41.917-.917V.917A.917.917 0 0 0 21.083 0Zm-2.145 4.686L17.651 5.92a.376.376 0 0 0-.143.361v9.068a.376.376 0 0 0 .143.361l1.257 1.234v.271h-6.322v-.271l1.3-1.264c.128-.128.128-.166.128-.361V7.99l-3.621 9.2h-.489l-4.213-9.2v6.163a.85.85 0 0 0 .233.707l1.694 2.054v.271h-4.8v-.271l1.691-2.054a.82.82 0 0 0 .218-.707V7.027a.625.625 0 0 0-.2-.527L3.019 4.686v-.271h4.674l3.613 7.924 3.176-7.924h4.456v.271Z" fill-rule="nonzero" />
+                </svg>
+              </div>
+              <div class="font-uncut-sans text-xl text-gray-100 font-bold">Blog</div>
+            </a>
+            
+            <!-- 5th Box -->
+            <a class="block relative p-5 group" href="https://docs.searchers.market/">
+              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
+                <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="23" height="23" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M4.924 19h6.927l5.128 1.386 3.399-12.548L16 6.654V4.582l5.859 1.586a1 1 0 0 1 .704 1.226l-3.913 14.48a1 1 0 0 1-1.226.705l-12.55-3.393.05-.186Z" fill-rule="nonzero" fill-opacity=".64" />
+                  <rect width="14" height="17" rx="1" />
+                </svg>
+              </div>
+              <div class="font-uncut-sans text-xl text-gray-100 font-bold">Docs</div>
+            </a>
+
             <!-- 1st Box -->
             <a class="block relative p-5 group" 
             href="https://t.me/searchers_market">
@@ -38,15 +59,7 @@
               <div class="font-uncut-sans text-xl text-gray-100 font-bold">Discord</div>
             </a>
 
-            <!-- mirror -->
-            <a class="block relative p-5 group" href="https://mirror.xyz/searchers-market.eth">
-              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
-                <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22" height="22" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M21.083 0H.917A.917.917 0 0 0 0 .917v20.166c0 .507.41.917.917.917h20.166c.507 0 .917-.41.917-.917V.917A.917.917 0 0 0 21.083 0Zm-2.145 4.686L17.651 5.92a.376.376 0 0 0-.143.361v9.068a.376.376 0 0 0 .143.361l1.257 1.234v.271h-6.322v-.271l1.3-1.264c.128-.128.128-.166.128-.361V7.99l-3.621 9.2h-.489l-4.213-9.2v6.163a.85.85 0 0 0 .233.707l1.694 2.054v.271h-4.8v-.271l1.691-2.054a.82.82 0 0 0 .218-.707V7.027a.625.625 0 0 0-.2-.527L3.019 4.686v-.271h4.674l3.613 7.924 3.176-7.924h4.456v.271Z" fill-rule="nonzero" />
-                </svg>
-              </div>
-              <div class="font-uncut-sans text-xl text-gray-100 font-bold">Blog</div>
-            </a>
+
 
             <!-- twitter-->
             <a class="block relative p-5 group" href="https://twitter.com/searchers_mkt" >
@@ -76,16 +89,7 @@
               <div class="font-uncut-sans text-xl text-gray-100 font-bold">GitHub</div>
             </a>
 
-            <!-- 5th Box -->
-            <a class="block relative p-5 group" href="https://docs.searchers.market/">
-              <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
-                <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="23" height="23" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M4.924 19h6.927l5.128 1.386 3.399-12.548L16 6.654V4.582l5.859 1.586a1 1 0 0 1 .704 1.226l-3.913 14.48a1 1 0 0 1-1.226.705l-12.55-3.393.05-.186Z" fill-rule="nonzero" fill-opacity=".64" />
-                  <rect width="14" height="17" rx="1" />
-                </svg>
-              </div>
-              <div class="font-uncut-sans text-xl text-gray-100 font-bold">Docs</div>
-            </a>
+
 
             <!-- 6th Box -->
             <a class="block relative p-5 group" href="https://www.youtube.com/@searchers.market" >
