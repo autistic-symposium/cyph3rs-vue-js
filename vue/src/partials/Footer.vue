@@ -10,13 +10,13 @@
 
             <div class="lg:col-span-1">
               <h6 class="text-s font-bold mb-2">
-              <a class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" href="privacy" >
+              <router-link class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" to="/privacy">
               Privacy Policy
-              </a></h6>
+              </router-link></h6>
               <h6 class="text-s font-bold mb-2">
-              <a class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" href="terms" >
+              <router-link class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" to="/terms">
               Terms of Service
-              </a></h6>
+              </router-link></h6>
             </div>
 
 
