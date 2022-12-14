@@ -21,13 +21,13 @@
         <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
           <h4 class="h4 text-gray-200  pb-12">Welcome to Searchers Market!</h4>
           <p class="text-lg text-gray-400 font-bold pb-12">
-            These Terms and Conditions (these “Terms” ), the Privacy Policy posted at: 
-            searchers.market/privacy (the “Privacy Policy” ), and all other terms and policies posted on searchers.market 
+            These Terms and Conditions (these "Terms"), the Privacy Policy posted at: 
+            searchers.market/privacy (the "Privacy Policy"), and all other terms and policies posted on searchers.market 
             (the “Site”) govern your access to and use of the Site and any other applications, content, products, and services 
-            (each a “Service” and collectively, the “Services” ) made available by Searchers Market or its representatives, affiliates,
-             officers, and directors (collectively, Searchers Market or “We” (and all of its derivations)). 
+            (each a “Service” and collectively, the "Services") made available by Searchers Market or its representatives, affiliates,
+             officers, and directors (collectively, Searchers Market or "We" (and all of its derivations)). 
              These Terms are a binding agreement between Us and you as the individual, company or legal entity that will be 
-             utilizing any of the Services ( “You” ).
+             utilizing any of the Services ("You").
           </p>
 
         <h4 class="h4 text-gray-200  pb-12">
