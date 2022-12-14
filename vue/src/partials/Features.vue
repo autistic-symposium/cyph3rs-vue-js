@@ -58,7 +58,7 @@
             </div>
             <h4 class="h4 text-gray-200 text-center mb-2">For Protocols</h4>
             <p class="text-lg text-gray-400 text-center font-bold">
-              Connect to a network of searcher operators and bot builders, and find the partners for your project. </p>
+              Connect to a network of searcher operators and bot builders to find partners for your project. </p>
           </div>
 
           <!-- 3rd item -->

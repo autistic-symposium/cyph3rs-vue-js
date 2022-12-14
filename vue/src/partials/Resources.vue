@@ -6,7 +6,7 @@
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
           <h2 class="h2 font-uncut-sans">
-          Shall we raid?
+          Ready to start?
           </h2>
         </div>
 
