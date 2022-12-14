@@ -9,11 +9,11 @@
 
             <div class="lg:col-span-1">
               <h6 class="text-s font-bold mb-2">
-              <a class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" href="#0" >
+              <a class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" href="about" >
               About
               </a></h6>
               <h6 class="text-s font-bold mb-2">
-              <a class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" href="#0" >
+              <a class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" href="careers" >
               Careers
               </a></h6>
             </div>
@@ -21,11 +21,11 @@
 
             <div class="lg:col-span-1">
               <h6 class="text-s font-bold mb-2">
-              <a class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" href="#0" >
+              <a class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" href="terms" >
               Terms of Service
               </a></h6>
               <h6 class="text-s font-bold mb-2">
-              <a class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" href="#0" >
+              <a class="text-gray-400 hover:text-green-400 transition duration-150 ease-in-out font-bold" href="privacy" >
               Privacy Policy
               </a></h6>
             </div>
