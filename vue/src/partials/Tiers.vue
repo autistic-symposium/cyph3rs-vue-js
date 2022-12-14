@@ -91,7 +91,7 @@
                 For DeFi projects that are affected by MEV extraction.
               </div>
 
-              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/projects">
+              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-purple-500 w-full shadow-lg group" to="/projects">
                Join as a Project
                 <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                </router-link>
@@ -148,7 +148,7 @@
                 For anyone who wants to become a successful searcher operator.
               </div>
 
-              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group" to="/rookies">
+              <router-link class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-pink-500 w-full shadow-lg group" to="/rookies">
                Join as a Rookie
                 <span class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
                </router-link>
