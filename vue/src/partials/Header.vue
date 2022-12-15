@@ -5,10 +5,10 @@
 
         <!-- Site branding -->
         <div class="text-xl text-gray-200 font-bold">
-          
-          <router-link to="/">
+
+        <router-link to="/">
             Searchers.Market
-          </router-link>
+        </router-link>
 
         </div>
 
@@ -20,7 +20,7 @@
             <li class="ml-3">
 
               <router-link class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group" to="#0">
-                Sign in to dashboard  <span class="tracking-normal text-purple-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1"></span>
+                Connect wallet  <span class="tracking-normal text-purple-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1"></span>
               </router-link>
             </li>
           </ul>
