@@ -1,8 +1,7 @@
 import { createApp } from 'vue'
+import { VueDapp } from 'vue-dapp'
 import router from './router'
 import App from './App.vue'
-import { VueDapp } from 'vue-dapp'
-import { ethers } from 'ethers'
 
 import 'aos/dist/aos.css';
 import './css/style.css'
