@@ -23,13 +23,13 @@
             <!-- CONNECT WALLET -->
 
             <div v-if="isActivated" class="flex items-center">
-              <button @click="connect" class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group" >
+              <button @click="disconnect" class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group" >
                   Connected to {{ dnsAlias || shortenAddress(address) }}
               </button>
             </div>
   
             <div v-else @click="open" class="flex items-center">
-              <button @click="disconnect" class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group">
+              <button @click="connect" class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group">
                 Connect Wallet
               </button>
             </div>
