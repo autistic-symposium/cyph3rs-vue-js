@@ -22,7 +22,6 @@
             <!-- CONNECT WALLET -->
             <p v-if="wallet.error" class="text-sm text-red-500">{{ wallet.error }}</p>
 
-
             <li class="ml-3">
               <div v-if="isActivated" class="flex items-center">
                 <button @click="disconnect" class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group" >
