@@ -14,9 +14,12 @@ npm run dev
 <br>
 
 
-### Compiles and minifies for production
+
+### Deployment
 
 
 ```
 npm run build
 ```
+
+Push to `staging`, then push to `main`.
