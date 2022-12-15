@@ -5,11 +5,9 @@
 
         <!-- Site branding -->
         <div class="text-xl text-gray-200 font-bold">
-
         <router-link to="/">
             Searchers.Market
         </router-link>
-
         </div>
 
         <!-- Desktop navigation -->
@@ -19,12 +17,21 @@
           <ul class="flex grow justify-end flex-wrap items-center">
             <li class="ml-3">
 
-              <router-link class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group" to="#0">
-                Connect wallet  <span class="tracking-normal text-purple-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1"></span>
-              </router-link>
+            <!-- CONNECT WALLET -->
+            <div v-if="isActivated" class="flex items-center">
+              <div class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group">
+                  {{ shortenAddress(address) }}
+              </div>
+            </div>
+
+            <button v-else @click="open" class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group">
+              Connect Wallet
+            </button>
+
+            <!-- END CONNECT WALLET -->
+
             </li>
           </ul>
-
         </nav>
 
       </div>
@@ -32,8 +39,13 @@
   </header>
 </template>
 
-<script>
-export default {
-  name: 'Header',
-}
+<script setup lang="ts">
+  import { useBoard, useEthers, shortenAddress } from 'vue-dapp'
+  const { open } = useBoard()
+  const { address, balance, isActivated } = useEthers()
+  const navigation: { name: string; href: string }[] = [
+    {
+      name: 'Header'
+    },
+  ]
 </script>
