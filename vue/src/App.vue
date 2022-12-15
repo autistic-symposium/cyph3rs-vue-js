@@ -19,20 +19,22 @@
         );
     })
 
-    const infuraId = 'ff6a249a74e048f1b413cba715f98d07'
+    const infuraId = import.meta.env.VITE_INFURA
     const connectors = [
+
       new MetaMaskConnector({
         appUrl: 'http://localhost:3000',
       }),
+
       new WalletConnectConnector({
         qrcode: true,
         rpc: {
           1: `https://mainnet.infura.io/v3/${infuraId}`,
-          4: `https://rinkeby.infura.io/v3/${infuraId}`,
         },
       }),
+
       new CoinbaseWalletConnector({
-        appName: 'Vue Dapp',
+        appName: 'Searchers Market',
         jsonRpcUrl: `https://mainnet.infura.io/v3/${infuraId}`,
       }),
     ]
