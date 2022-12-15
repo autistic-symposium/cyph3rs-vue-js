@@ -4,6 +4,9 @@ import inject from '@rollup/plugin-inject'
 import nodeStdlibBrowser from 'node-stdlib-browser'
 
 export default defineConfig({
+	define: {
+		'process.env': process.env
+	  },
 	plugins: [
 		vue(),
 		{
@@ -16,7 +19,11 @@ export default defineConfig({
 		},
 	],
 	resolve: {
-		alias: { ...nodeStdlibBrowser },
+		alias: {
+			...nodeStdlibBrowser, 
+			find: /^~.+/,
+			replacement: (val) => {return val.replace(/^~/, "");},
+		},
 	},
 	optimizeDeps: {
 		esbuildOptions: {
