@@ -9,7 +9,7 @@
         <!-- Site branding -->
         <div class="text-xl text-gray-200 font-bold">
         <router-link to="/">
-            cyph3rs.xyz
+            CYPH3RS
         </router-link>
         </div>
 
