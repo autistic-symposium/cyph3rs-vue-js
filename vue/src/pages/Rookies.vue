@@ -29,7 +29,7 @@ export default {
             title: {
                 immediate: true,
                 handler() {
-                    document.title = 'Rookies - Searchers Market';
+                    document.title = 'Rookies - Cyph3rs';
                 }
             }
         },

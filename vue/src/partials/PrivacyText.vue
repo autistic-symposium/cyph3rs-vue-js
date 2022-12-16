@@ -9,7 +9,7 @@
 
 
         <div class="text-center pb-12 md:pb-20 text-gray-300">
-          <h2 class="h2 font-uncut-sans" data-aos="zoom-out">Searchers Market's Privacy Policy</h2>
+          <h2 class="h2 font-uncut-sans" data-aos="zoom-out">Cyph3rs's Privacy Policy</h2>
         </div>
 
         <div class="relative max-w-6xl mx-auto px-4 sm:px-6 text-green-1 font-bold">
@@ -20,7 +20,7 @@
 
          <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
             <p class="text-lg text-gray-400 font-bold pb-12">
-            Your privacy is important to us. It is Searchers Market's policy to respect your privacy 
+            Your privacy is important to us. It is Cyph3rs's policy to respect your privacy 
             and comply with any applicable law and regulation regarding any personal information we 
             may collect about you, including across our website, and other 
             sites we own and operate.

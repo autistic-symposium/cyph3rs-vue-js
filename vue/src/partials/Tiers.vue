@@ -15,7 +15,7 @@
             Join the network of MEV bots defining the future of finance</h2>
           <div class="max-w-2xl mx-auto">
             <p class="text-xl text-gray-400 font-bold">
-            Whether you are an experienced searcher operator or just starting the MEV game, Searchers Market will take you to the next level.</p>
+            Whether you are an experienced searcher operator or just starting the MEV game, Cyph3rs will take you to the next level.</p>
           </div>
 
           
@@ -142,7 +142,7 @@
           <div class="relative flex flex-col h-full p-6 bg-gray-800 rounded py-10 px-8" data-aos="zoom-out" data-aos-delay="100">
 
             <div class="mb-6">
-              <div class="text-lg font-semibold mb-1">Projects and Protocols</div>
+              <div class="text-lg font-bold mb-1">Projects and Protocols</div>
               <div class="text-gray-400 mb-6 font-bold">
                 For DeFi projects that are affected by MEV extraction.
               </div>

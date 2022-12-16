@@ -23,12 +23,12 @@
             </div>
 
             <div class="lg:col-span-1">
-              <h6 class="text-xs text-gray-600 font-bold mb-2">
-              © Copyright 2022 Searchers Market. All Rights Reserved.
+              <h6 class="text-xs text-gray-00 font-bold mb-2">
+              © Copyright 2022 Cyph3rs. <br> All Rights Reserved.
               </h6>
             </div>
 
-
+           <br>
 
           </div>
 

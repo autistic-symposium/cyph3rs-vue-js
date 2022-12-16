@@ -14,7 +14,7 @@
         <div>
 
           <!-- Boxes -->
-          <div class="max-w-sm mx-auto sm:max-w-none grid gap-12 sm:grid-cols-2 md:grid-cols-7 sm:gap-x-7 sm:gap-y-8">
+          <div class="max-w-sm mx-auto sm:max-w-none grid gap-12 sm:grid-cols-7 md:grid-cols-7 sm:gap-x-7 sm:gap-y-8">
 
             <!-- mirror -->
             <a class="block relative p-5 group" href="https://mirror.xyz/searchers-market.eth">
@@ -62,7 +62,7 @@
 
 
             <!-- twitter-->
-            <a class="block relative p-5 group" href="https://twitter.com/searchers_mkt" >
+            <a class="block relative p-5 group" href="https://twitter.com/withCyph3rs" >
               <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
             <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22" height="22" xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 511.537 511.537">

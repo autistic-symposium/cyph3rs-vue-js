@@ -29,7 +29,7 @@ export default {
             title: {
                 immediate: true,
                 handler() {
-                    document.title = 'About - Searchers Market';
+                    document.title = 'About - Cyph3rs';
                 }
             }
         },

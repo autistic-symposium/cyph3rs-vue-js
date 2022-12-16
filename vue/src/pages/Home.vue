@@ -40,7 +40,7 @@ export default {
             title: {
                 immediate: true,
                 handler() {
-                    document.title = 'Searchers Market';
+                    document.title = 'Cyph3rs';
                 }
             }
         },
