@@ -177,7 +177,7 @@
 
         <h4 class="h4 text-gray-200  pb-12">Contact Us</h4>
         <p class="text-lg text-gray-400  font-bold pb-12">
-        For any questions or concerns regarding your privacy, you may contact us using the following email: hi@searchers.market.       
+        For any questions or concerns regarding your privacy, you may contact us using the following email: hello@cyph3rs.xyz.
         </p>
 
     </div>

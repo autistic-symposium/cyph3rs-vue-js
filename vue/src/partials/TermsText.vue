@@ -22,7 +22,7 @@
           <h4 class="h4 text-gray-200  pb-12">Welcome to Cyph3rs!</h4>
           <p class="text-lg text-gray-400 font-bold pb-12">
             These Terms and Conditions (these "Terms"), the Privacy Policy posted at: 
-            searchers.market/privacy (the "Privacy Policy"), and all other terms and policies posted on searchers.market 
+            cyph3rs.xyz/privacy (the "Privacy Policy"), and all other terms and policies posted on cyph3rs.xyz
             (the “Site”) govern your access to and use of the Site and any other applications, content, products, and services 
             (each a “Service” and collectively, the "Services") made available by Cyph3rs or its representatives, affiliates,
              officers, and directors (collectively, Cyph3rs or "We" (and all of its derivations)). 
@@ -131,7 +131,7 @@
         Privacy
         </h4>
         <p class="text-lg text-gray-400 font-bold pb-12">
-        We respect the privacy of Our customers. Our Privacy Policy also governs Your use of the Services, and explains its policies for the collection, use and sharing of data including personally identifiable information. Please see Our Privacy Policy available at searchers.market/privacy for more information. By accessing or using the Services, You consent to Our collecting, reproducing, using, developing, displaying, modifying, storing, processing, disclosing and distributing any data and information accessed, collected, used, processed, stored, shared, distributed, transferred, disclosed, destroyed or disposed of in connection with Your use of the Services, subject to the terms and conditions of the Privacy Policy. </p>
+        We respect the privacy of Our customers. Our Privacy Policy also governs Your use of the Services, and explains its policies for the collection, use and sharing of data including personally identifiable information. Please see Our Privacy Policy available at cyph3rs.xyz/privacy for more information. By accessing or using the Services, You consent to Our collecting, reproducing, using, developing, displaying, modifying, storing, processing, disclosing and distributing any data and information accessed, collected, used, processed, stored, shared, distributed, transferred, disclosed, destroyed or disposed of in connection with Your use of the Services, subject to the terms and conditions of the Privacy Policy. </p>
 
 
 
@@ -146,7 +146,7 @@
         for receiving digital notification of claimed copyright infringement and for processing such claims in accordance with 
         such law. If You or any third party believe Your or their copyright is being infringed by a user of the Services, You or 
         they may provide notice to the following Cyph3rs agent for notice of claims of copyright infringement: of the Services, 
-        You or they may provide notice to the following Cyph3rs agent for notice of claims of copyright infringement: hi@searchers.market.
+        You or they may provide notice to the following Cyph3rs agent for notice of claims of copyright infringement: hello@cyph3rs.xyz.
         </p>
 
         <h4 class="h4 text-gray-200  pb-12">
