@@ -92,7 +92,7 @@
 
 
             <!-- 6th Box -->
-            <a class="block relative p-5 group" href="https://www.youtube.com/@searchers.market" >
+            <a class="block relative p-5 group" href="https://www.youtube.com/@cyph3rs" >
               <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22" height="18" xmlns="http://www.w3.org/2000/svg">
                   <path d="M21.083 0H.917C.41 0 0 .448 0 1v16c0 .552.41 1 .917 1h20.166c.507 0 .917-.448.917-1V1c0-.552-.41-1-.917-1ZM9 13V5l6 4-6 4Z" fill-rule="nonzero" />
