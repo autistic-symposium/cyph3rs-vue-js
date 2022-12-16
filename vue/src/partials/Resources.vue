@@ -39,7 +39,7 @@
 
             <!-- 1st Box -->
             <a class="block relative p-5 group" 
-            href="https://t.me/Cyph3rs">
+            href="https://t.me/searchers_market">
               <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="26" height="18" xmlns="http://www.w3.org/2000/svg">
                   <path d="M21.956.378a.47.47 0 0 0-.32-.347 1.662 1.662 0 0 0-.866.061S1.494 6.968.393 7.73c-.236.164-.316.26-.355.371-.19.546.402.78.402.78l4.968 1.607c.084.015.17.01.252-.015 1.13-.708 11.366-7.126 11.961-7.342.092-.027.162 0 .144.069-.237.823-9.083 8.622-9.131 8.669a.181.181 0 0 0-.066.16l-.464 4.815s-.194 1.498 1.315 0a42.204 42.204 0 0 1 2.612-2.373c1.708 1.171 3.546 2.466 4.339 3.143.27.26.633.398 1.008.385a1.13 1.13 0 0 0 .964-.849s3.51-14.03 3.627-15.909c.012-.182.028-.302.03-.428a1.591 1.591 0 0 0-.043-.435Z" fill-rule="nonzero" />
