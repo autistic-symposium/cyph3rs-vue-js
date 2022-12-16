@@ -82,7 +82,7 @@
       }),
 
       new CoinbaseWalletConnector({
-        appName: 'Searchers Market',
+        appName: 'Cyph3rs',
         jsonRpcUrl: `https://mainnet.infura.io/v3/${infuraId}`,
       }),
     ];
