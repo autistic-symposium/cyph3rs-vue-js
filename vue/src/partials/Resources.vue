@@ -27,7 +27,7 @@
             </a>
             
             <!-- 5th Box -->
-            <a class="block relative p-5 group" href="https://docs.searchers.market/">
+            <a class="block relative p-5 group" href="https://docs.cyph3rs.xyz/">
               <div class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="23" height="23" xmlns="http://www.w3.org/2000/svg">
                   <path d="M4.924 19h6.927l5.128 1.386 3.399-12.548L16 6.654V4.582l5.859 1.586a1 1 0 0 1 .704 1.226l-3.913 14.48a1 1 0 0 1-1.226.705l-12.55-3.393.05-.186Z" fill-rule="nonzero" fill-opacity=".64" />
