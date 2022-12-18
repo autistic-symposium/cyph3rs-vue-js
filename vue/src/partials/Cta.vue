@@ -22,7 +22,7 @@
 
           <!-- CTA content -->
           <div class="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left">
-            <h3 class="text-4xl font-bold font-uncut-sans mb-2 text-gray-200">
+            <h3 class="text-4xl font-bold font-sora mb-2 text-gray-200">
             Build and deploy your own MEV bot
             </h3>
 

@@ -20,7 +20,7 @@
           <div data-aos="zoom-out">
 
           </div>
-          <h1 class="h1 font-uncut-sans text-gray-100 mb-6" data-aos="zoom-out" data-aos-delay="100">
+          <h1 class="h1 font-sora text-gray-100 mb-6" data-aos="zoom-out" data-aos-delay="100">
               The MEV marketplace for 
               <em class="font-italic text-green-1">searchers</em> 
               and <em class="font-italic text-green-2">protocols</em>

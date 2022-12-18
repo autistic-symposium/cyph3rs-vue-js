@@ -8,6 +8,7 @@ module.exports = {
       fontFamily: {
         inter: ['Inter', 'sans-serif'],
         'uncut-sans': ['Uncut Sans', 'sans-serif'],
+        'sora': ['Sora', 'sans-serif'],
       },
       fontSize: {
         xs: ['0.75rem', { lineHeight: '1.5' }],

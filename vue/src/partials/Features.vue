@@ -5,7 +5,7 @@
 
         <!-- Section header -->
         <div class="text-center pb-12 md:pb-20 text-gray-300">
-          <h2 class="h2 font-uncut-sans" data-aos="zoom-out">Let's set the Dark Forest on fire</h2>
+          <h2 class="h2 font-sora" data-aos="zoom-out">Let's set the Dark Forest on fire</h2>
         </div>
 
         <!-- Items -->
