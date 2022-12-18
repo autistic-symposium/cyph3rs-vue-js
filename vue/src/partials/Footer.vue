@@ -24,7 +24,7 @@
 
             <div class="lg:col-span-1">
               <h6 class="text-xs text-gray-00 font-bold mb-2">
-              © Copyright 2022 Cyph3rs. <br> All Rights Reserved.
+              © Copyright 2023 cyph3rs.xyz <br> All Rights Reserved.
               </h6>
             </div>
 
