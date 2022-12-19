@@ -21,7 +21,7 @@
 
           </div>
           <h1 class="h1 font-sora text-gray-100 mb-6" data-aos="zoom-out" data-aos-delay="100">
-              The marketplace for MEV
+              The marketplace for
               <em class="font-italic text-green-1">searchers</em> 
               and <em class="font-italic text-green-2">protocols</em>
           </h1>
