@@ -33,7 +33,7 @@
             </div>
             <h4 class="h4 text-gray-200 text-center mb-2">For Searchers</h4>
             <p class="text-lg text-gray-400 text-center font-bold">
-                  Find projects, bounties, and opportunities for your strategies. Earn coins for fun or profit.</p>
+                  Find MEV projects, bounties, and opportunities for your strategies. Earn coins for fun or profit.</p>
           </div>
 
           <!-- 2nd item -->
