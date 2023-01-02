@@ -8,9 +8,9 @@
     <main class="grow">
       <PrivacyText />
     </main>
-    
+
     <!-- Site footer -->
-    <Footer />    
+    <Footer />
 
   </div>
 </template>
@@ -25,19 +25,19 @@ export default {
   name: 'Privacy',
   props: ['title'],
   watch: {
-            title: {
-                immediate: true,
-                handler() {
-                    document.title = 'Privacy Policy - CYPH3RS INTELLIGENCE ';
-                }
-            }
-        },
-        render () {
-        },
+    title: {
+      immediate: true,
+      handler() {
+        document.title = 'Privacy Policy - CYPH3RS INTELLIGENCE ';
+      }
+    }
+  },
+  render() {
+  },
   components: {
     Header,
     PrivacyText,
     Footer,
-},
+  },
 }
 </script>

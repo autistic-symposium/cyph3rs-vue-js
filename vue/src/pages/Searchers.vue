@@ -10,9 +10,9 @@
       <SearchersText />
 
     </main>
-    
+
     <!-- Site footer -->
-    <Footer />    
+    <Footer />
 
   </div>
 </template>
@@ -26,19 +26,19 @@ export default {
   name: 'Searchers',
   props: ['title'],
   watch: {
-            title: {
-                immediate: true,
-                handler() {
-                    document.title = 'Searchers - CYPH3RS INTELLIGENCE ';
-                }
-            }
-        },
-        render () {
-        },
+    title: {
+      immediate: true,
+      handler() {
+        document.title = 'Searchers - CYPH3RS INTELLIGENCE ';
+      }
+    }
+  },
+  render() {
+  },
   components: {
     Header,
     SearchersText,
     Footer,
-},
+  },
 }
 </script>

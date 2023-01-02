@@ -16,9 +16,9 @@
 
 
     </main>
-    
+
     <!-- Site footer -->
-    <Footer />    
+    <Footer />
 
   </div>
 </template>
@@ -37,15 +37,15 @@ export default {
   name: 'Home',
   props: ['title'],
   watch: {
-            title: {
-                immediate: true,
-                handler() {
-                    document.title = 'CYPH3RS INTELLIGENCE ';
-                }
-            }
-        },
-        render () {
-        },
+    title: {
+      immediate: true,
+      handler() {
+        document.title = 'CYPH3RS INTELLIGENCE ';
+      }
+    }
+  },
+  render() {
+  },
   components: {
     Header,
     Hero,
@@ -55,6 +55,6 @@ export default {
     Resources,
     Cta,
     Footer,
-},
+  },
 }
 </script>
