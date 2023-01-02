@@ -10,9 +10,9 @@
       <ProjectsText />
 
     </main>
-    
+
     <!-- Site footer -->
-    <Footer />    
+    <Footer />
 
   </div>
 </template>
@@ -26,19 +26,19 @@ export default {
   name: 'Projects',
   props: ['title'],
   watch: {
-            title: {
-                immediate: true,
-                handler() {
-                    document.title = 'Projects - CYPH3RS INTELLIGENCE ';
-                }
-            }
-        },
-        render () {
-        },
+    title: {
+      immediate: true,
+      handler() {
+        document.title = 'Projects - CYPH3RS INTELLIGENCE ';
+      }
+    }
+  },
+  render() {
+  },
   components: {
     Header,
     ProjectsText,
     Footer,
-},
+  },
 }
 </script>

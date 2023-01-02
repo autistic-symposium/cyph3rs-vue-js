@@ -33,7 +33,8 @@
             </div>
             <h4 class="h4 text-gray-200 text-center mb-2">For Searchers</h4>
             <p class="text-lg text-gray-400 text-center font-bold">
-                  Find bounties, private order flows, and opportunities for your strategies. Earn coins for fun or profit.</p>
+              Find bounties, private order flows, and opportunities for your strategies. Earn coins for fun or profit.
+            </p>
           </div>
 
           <!-- 2nd item -->
@@ -84,8 +85,8 @@
             <h4 class="h4 text-gray-200 text-center mb-2">For Builders</h4>
             <p class="text-lg text-gray-400 text-center font-bold">
               Learn everything you need to design, strategize, build, and deploy searchers.
-              </p>
-            </div>
+            </p>
+          </div>
 
         </div>
 
