@@ -9,7 +9,7 @@
 
 
         <div class="text-center pb-12 md:pb-20 text-gray-300">
-          <h2 class="h2 font-sora" data-aos="zoom-out">Cyph3rs Terms of Service</h2>
+          <h2 class="h2 font-sora" data-aos="zoom-out">CYPH3RS INTELLIGENCE Terms of Service</h2>
         </div>
 
         <div class="relative max-w-6xl mx-auto px-4 sm:px-6 text-green-1 font-bold">
@@ -19,13 +19,13 @@
         </div>
 
         <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
-          <h4 class="h4 text-gray-200  pb-12">Welcome to Cyph3rs!</h4>
+          <h4 class="h4 text-gray-200  pb-12">Welcome to CYPH3RS!</h4>
           <p class="text-lg text-gray-400 font-bold pb-12">
             These Terms and Conditions (these "Terms"), the Privacy Policy posted at: 
             cyph3rs.xyz/privacy (the "Privacy Policy"), and all other terms and policies posted on cyph3rs.xyz
             (the “Site”) govern your access to and use of the Site and any other applications, content, products, and services 
-            (each a “Service” and collectively, the "Services") made available by Cyph3rs or its representatives, affiliates,
-             officers, and directors (collectively, Cyph3rs or "We" (and all of its derivations)). 
+            (each a “Service” and collectively, the "Services") made available by CYPH3RS INTELLIGENCE or its representatives, affiliates,
+             officers, and directors (collectively, CYPH3RS INTELLIGENCE or "We" (and all of its derivations)). 
              These Terms are a binding agreement between Us and you as the individual, company or legal entity that will be 
              utilizing any of the Services ("You").
           </p>
@@ -99,7 +99,7 @@
         Trademarks and Copyrights 
         </h4>
         <p class="text-lg text-gray-400 font-bold pb-12">
-        Cyph3rs and the Cyph3rs Logo are trademarks of Ours. All other trademarks appearing in the Services are the registered and unregistered trademarks of their respective holders. You may not use any trademark or service mark appearing in the Services without the prior written consent of Us or the owner of the mark. In the event the Services contain any copyright or other message(s) embedded therein, You shall not modify or remove such embedded message(s). Nothing contained in these Terms shall be construed as conferring by implication, estoppel otherwise any license or right to use any trademark, patent, design right or copyright of Ours, or any third party
+          CYPH3RS INTELLIGENCE and the CYPH3RS INTELLIGENCE Logo are trademarks of Ours. All other trademarks appearing in the Services are the registered and unregistered trademarks of their respective holders. You may not use any trademark or service mark appearing in the Services without the prior written consent of Us or the owner of the mark. In the event the Services contain any copyright or other message(s) embedded therein, You shall not modify or remove such embedded message(s). Nothing contained in these Terms shall be construed as conferring by implication, estoppel otherwise any license or right to use any trademark, patent, design right or copyright of Ours, or any third party
         </p>
 
 
@@ -145,8 +145,8 @@
         Pursuant to Title 17 of the United States Code, Section 512, We have implemented procedures 
         for receiving digital notification of claimed copyright infringement and for processing such claims in accordance with 
         such law. If You or any third party believe Your or their copyright is being infringed by a user of the Services, You or 
-        they may provide notice to the following Cyph3rs agent for notice of claims of copyright infringement: of the Services, 
-        You or they may provide notice to the following Cyph3rs agent for notice of claims of copyright infringement: hello@cyph3rs.xyz.
+        they may provide notice to the following CYPH3RS INTELLIGENCE agent for notice of claims of copyright infringement: of the Services, 
+        You or they may provide notice to the following CYPH3RS INTELLIGENCE agent for notice of claims of copyright infringement: hello@cyph3rs.xyz.
         </p>
 
         <h4 class="h4 text-gray-200  pb-12">

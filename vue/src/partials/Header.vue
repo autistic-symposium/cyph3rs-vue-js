@@ -9,7 +9,7 @@
         <!-- Site branding -->
         <div class="text-xl text-gray-200 font-bold">
         <router-link to="/">
-            cyph3rs.xyz
+          CYPH3RS.xyz
         </router-link>
         </div>
 
@@ -82,7 +82,7 @@
       }),
 
       new CoinbaseWalletConnector({
-        appName: 'Cyph3rs',
+        appName: 'CYPH3RS INTELLIGENCE ',
         jsonRpcUrl: `https://mainnet.infura.io/v3/${infuraId}`,
       }),
     ];

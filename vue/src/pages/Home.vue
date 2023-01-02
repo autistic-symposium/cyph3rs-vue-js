@@ -40,7 +40,7 @@ export default {
             title: {
                 immediate: true,
                 handler() {
-                    document.title = 'Cyph3rs';
+                    document.title = 'CYPH3RS INTELLIGENCE ';
                 }
             }
         },
