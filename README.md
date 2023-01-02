@@ -6,18 +6,25 @@
 
 #### production: 
 
-* `main`
+* branch `main`
 * only merge after pr review
-* https://www.cyph3rs.xyz/
+* Link: [cyph3rs.xyz](https://www.cyph3rs.xyz)
 
 
 #### staging: 
 
-* `staging
-* just push a pr to this branch to stage
-* check at https://staging.searchers.market (at some point this need to be protected under under creds or removed)
+* branch `staging`
+* just push a pr to this branch to staging
+* link: [staging.searchers.market](https://staging.searchers.market) (at some point this need to be protected under under creds or removed)
 
-![Screen Shot 2023-01-02 at 11 08 59 AM](https://user-images.githubusercontent.com/1130416/210270666-e0aec987-39db-483f-abbe-f5edad38f3f7.png)
+<br>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/1130416/210270666-e0aec987-39db-483f-abbe-f5edad38f3f7.png" width="50%" align="center" style="padding:1px;border:1px solid black;">
+  
+
+</p>
+
 
 
 ----
