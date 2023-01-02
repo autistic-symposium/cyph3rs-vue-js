@@ -23,9 +23,11 @@
             </div>
 
             <div class="lg:col-span-1">
-              <h6 class="text-xs text-gray-00 font-bold mb-2">
-              © Copyright 2023 cyph3rs.xyz <br> All Rights Reserved.
-              </h6>
+              <h5 class="text-xs text-gray-00 font-bold mb-2">
+                
+                CYPH3RS INTELLIGENCE © 2023
+    
+              </h5>
             </div>
 
            <br>
