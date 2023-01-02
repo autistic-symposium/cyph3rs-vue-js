@@ -2,6 +2,39 @@
 
 <br>
 
+
+
+### Development
+
+To change code:
+
+```
+cd ../vue
+npm install
+npm run dev
+```
+
+You can check changes at `localhost`.
+
+
+<br>
+
+---
+
+### Deployment 
+
+Once you are satisfied with the changes, run:
+
+```
+npm run build
+```
+
+Then create a PR, first to `staging`, then to `main` (see below).
+
+<br>
+
+---
+
 ### Branches
 
 #### production: 
@@ -24,33 +57,3 @@
   
 
 </p>
-
-
-
-----
-
-### Development
-
-To change code:
-
-```
-cd ../vue
-npm install
-npm run dev
-```
-
-You can check at `localhost`.
-
-
-<br>
-
-
-### Deployment 
-
-Once you are satisfied with the changes, run:
-
-```
-npm run build
-```
-
-Then create a PR, first to `staging`, then to `main`.
