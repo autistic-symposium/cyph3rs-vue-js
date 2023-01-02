@@ -28,7 +28,7 @@ export default {
             title: {
                 immediate: true,
                 handler() {
-                    document.title = 'Privacy Policy - Searchers Market';
+                    document.title = 'Privacy Policy - CYPH3RS INTELLIGENCE ';
                 }
             }
         },

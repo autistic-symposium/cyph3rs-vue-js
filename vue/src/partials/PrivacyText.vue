@@ -9,7 +9,7 @@
 
 
         <div class="text-center pb-12 md:pb-20 text-gray-300">
-          <h2 class="h2 font-uncut-sans" data-aos="zoom-out">Searchers Market's Privacy Policy</h2>
+          <h2 class="h2 font-sora" data-aos="zoom-out">CYPH3RS INTELLIGENCE - Privacy Policy</h2>
         </div>
 
         <div class="relative max-w-6xl mx-auto px-4 sm:px-6 text-green-1 font-bold">
@@ -20,7 +20,7 @@
 
          <div class="relative max-w-6xl mx-auto px-4 sm:px-6">
             <p class="text-lg text-gray-400 font-bold pb-12">
-            Your privacy is important to us. It is Searchers Market's policy to respect your privacy 
+            Your privacy is important to us. It is CYPH3RS INTELLIGENCE's policy to respect your privacy 
             and comply with any applicable law and regulation regarding any personal information we 
             may collect about you, including across our website, and other 
             sites we own and operate.
@@ -177,7 +177,7 @@
 
         <h4 class="h4 text-gray-200  pb-12">Contact Us</h4>
         <p class="text-lg text-gray-400  font-bold pb-12">
-        For any questions or concerns regarding your privacy, you may contact us using the following email: hi@searchers.market.       
+        For any questions or concerns regarding your privacy, you may contact us using the following email: hello@cyph3rs.xyz.
         </p>
 
     </div>

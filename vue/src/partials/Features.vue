@@ -5,7 +5,7 @@
 
         <!-- Section header -->
         <div class="text-center pb-12 md:pb-20 text-gray-300">
-          <h2 class="h2 font-uncut-sans" data-aos="zoom-out">Let's set the Dark Forest on fire</h2>
+          <h2 class="h2 font-sora" data-aos="zoom-out">Let's set the Dark Forest on fire</h2>
         </div>
 
         <!-- Items -->
@@ -33,7 +33,7 @@
             </div>
             <h4 class="h4 text-gray-200 text-center mb-2">For Searchers</h4>
             <p class="text-lg text-gray-400 text-center font-bold">
-                  Find projects, bounties, and opportunities for your strategies. Earn coins for fun or profit.</p>
+                  Find bounties, private order flows, and opportunities for your strategies. Earn coins for fun or profit.</p>
           </div>
 
           <!-- 2nd item -->
@@ -83,7 +83,7 @@
             </div>
             <h4 class="h4 text-gray-200 text-center mb-2">For Builders</h4>
             <p class="text-lg text-gray-400 text-center font-bold">
-              Learn everything you need to strategize, build, and deploy searchers.
+              Learn everything you need to design, strategize, build, and deploy searchers.
               </p>
             </div>
 
