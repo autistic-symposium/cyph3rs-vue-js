@@ -1,10 +1,8 @@
-## CYPH3RS Platform Frontend
+# CYPH3RS Platform Frontend
 
-<br>
+---
 
-
-
-### Development
+## Development
 
 To change code:
 
@@ -16,12 +14,9 @@ npm run dev
 
 You can check changes at `localhost`.
 
-
-<br>
-
 ---
 
-### Deployment 
+## Deployment 
 
 Once you are satisfied with the changes, run:
 
@@ -30,12 +25,6 @@ npm run build
 ```
 
 Then create a PR, first to `staging`, then to `main` (see below).
-
-<br>
-
----
-
-### Branches
 
 #### production: 
 
@@ -57,3 +46,19 @@ Then create a PR, first to `staging`, then to `main` (see below).
   
 
 </p>
+
+---
+
+## Contributing
+
+####
+
+All code must be formatted by [volar](https://github.com/johnsoncodehk/volar)
+
+To auto-format on save in visual studio code add this to your `settings.json`
+```
+"[vue]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "Vue.volar"
+},
+```

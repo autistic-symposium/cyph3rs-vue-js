@@ -2,7 +2,9 @@
   <section class="relative overflow-hidden">
 
     <!-- Bg gradient -->
-    <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-gray-800 to-gray-900 opacity-60 h-[10rem] pointer-events-none -z-10" aria-hidden="true"></div>
+    <div
+      class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-gray-800 to-gray-900 opacity-60 h-[10rem] pointer-events-none -z-10"
+      aria-hidden="true"></div>
 
 
     <!-- Illustration -->
@@ -21,9 +23,9 @@
 
           </div>
           <h1 class="h1 font-sora text-gray-100 mb-6" data-aos="zoom-out" data-aos-delay="100">
-              The marketplace for
-              <em class="font-italic text-green-1">searchers</em> 
-              and <em class="font-italic text-green-2">protocols</em>
+            The marketplace for
+            <em class="font-italic text-green-1">searchers</em>
+            and <em class="font-italic text-green-2">protocols</em>
           </h1>
 
 
@@ -32,10 +34,13 @@
           </p>
 
 
-          <div class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4" data-aos="zoom-out" data-aos-delay="300">
+          <div
+            class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4"
+            data-aos="zoom-out" data-aos-delay="300">
             <div>
-              <a href="https://hrvf993g98l.typeform.com/c/hRH3Z5sd" class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-pink-600 w-full shadow-lg group font-bold" >
-                Become a Searcher 
+              <a href="https://hrvf993g98l.typeform.com/c/hRH3Z5sd"
+                class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-pink-600 w-full shadow-lg group font-bold">
+                Become a Searcher
               </a>
 
               <!-- <router-link  class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-pink-600 w-full shadow-lg group font-bold" 
@@ -46,8 +51,9 @@
 
             <div>
 
-              <a href="https://hrvf993g98l.typeform.com/c/hRH3Z5sd" class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-pink-600 w-full shadow-lg group font-bold" >
-                Hire a Searcher 
+              <a href="https://hrvf993g98l.typeform.com/c/hRH3Z5sd"
+                class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-pink-600 w-full shadow-lg group font-bold">
+                Hire a Searcher
               </a>
 
 

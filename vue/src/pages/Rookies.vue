@@ -10,9 +10,9 @@
       <RookiesText />
 
     </main>
-    
+
     <!-- Site footer -->
-    <Footer />    
+    <Footer />
 
   </div>
 </template>
@@ -26,19 +26,19 @@ export default {
   name: 'Rookies',
   props: ['title'],
   watch: {
-            title: {
-                immediate: true,
-                handler() {
-                    document.title = 'Rookies - CYPH3RS INTELLIGENCE';
-                }
-            }
-        },
-        render () {
-        },
+    title: {
+      immediate: true,
+      handler() {
+        document.title = 'Rookies - CYPH3RS INTELLIGENCE';
+      }
+    }
+  },
+  render() {
+  },
   components: {
     Header,
     RookiesText,
     Footer,
-},
+  },
 }
 </script>

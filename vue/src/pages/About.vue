@@ -10,9 +10,9 @@
       <AboutText />
 
     </main>
-    
+
     <!-- Site footer -->
-    <Footer />    
+    <Footer />
 
   </div>
 </template>
@@ -26,19 +26,19 @@ export default {
   name: 'About',
   props: ['title'],
   watch: {
-            title: {
-                immediate: true,
-                handler() {
-                    document.title = 'About - CYPH3RS INTELLIGENCE ';
-                }
-            }
-        },
-        render () {
-        },
+    title: {
+      immediate: true,
+      handler() {
+        document.title = 'About - CYPH3RS INTELLIGENCE ';
+      }
+    }
+  },
+  render() {
+  },
   components: {
     Header,
     AboutText,
     Footer,
-},
+  },
 }
 </script>

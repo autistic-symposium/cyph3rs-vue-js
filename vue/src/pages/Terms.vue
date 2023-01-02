@@ -10,9 +10,9 @@
       <TermsText />
 
     </main>
-    
+
     <!-- Site footer -->
-    <Footer />    
+    <Footer />
 
   </div>
 </template>
@@ -26,20 +26,20 @@ export default {
   name: 'Terms',
   props: ['title'],
   watch: {
-            title: {
-                immediate: true,
-                handler() {
-                    document.title = 'Terms of Service - CYPH3RS INTELLIGENCE ';
-                }
-            }
-        },
-        render () {
-        },
+    title: {
+      immediate: true,
+      handler() {
+        document.title = 'Terms of Service - CYPH3RS INTELLIGENCE ';
+      }
+    }
+  },
+  render() {
+  },
 
   components: {
     Header,
     TermsText,
     Footer,
-},
+  },
 }
 </script>
