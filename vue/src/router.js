@@ -5,6 +5,7 @@ import Searchers from './pages/Searchers.vue'
 import Rookies from './pages/Rookies.vue'
 import Terms from './pages/Terms.vue'
 import Privacy from './pages/Privacy.vue'
+import Signup from './pages/Signup.vue'
 
 const routerHistory = createWebHistory()
 
@@ -43,6 +44,10 @@ const router = createRouter({
     {
       path: '/privacy',
       component: Privacy
+    },
+    {
+      path: '/signup',
+      component: Signup
     }
   ]
 })
