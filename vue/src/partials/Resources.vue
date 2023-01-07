@@ -17,7 +17,7 @@
           <div class="max-w-sm mx-auto sm:max-w-none grid gap-12 sm:grid-cols-7 md:grid-cols-7 sm:gap-x-7 sm:gap-y-8">
 
             <!-- mirror -->
-            <a class="block relative p-5 group" href="https://mirror.xyz/wearecyph3rs.eth">
+            <a class="block relative p-5 group" href="https://mirror.xyz/wearecyph3rs.eth" target="_blank">
               <div
                 class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22"
@@ -31,7 +31,7 @@
             </a>
 
             <!-- 5th Box -->
-            <a class="block relative p-5 group" href="https://docs.cyph3rs.xyz/">
+            <a class="block relative p-5 group" href="https://docs.cyph3rs.xyz/" target="_blank">
               <div
                 class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="23"
@@ -46,7 +46,7 @@
             </a>
 
             <!-- 1st Box -->
-            <a class="block relative p-5 group" href="https://t.me/searchers_market">
+            <a class="block relative p-5 group" href="https://t.me/searchers_market" target="_blank">
               <div
                 class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="26"
@@ -60,7 +60,7 @@
             </a>
 
             <!-- 2nd Box -->
-            <a class="block relative p-5 group" href="https://discord.gg/WUzhur787m">
+            <a class="block relative p-5 group" href="https://discord.gg/WUzhur787m" target="_blank">
               <div
                 class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="24"
@@ -76,7 +76,7 @@
 
 
             <!-- twitter-->
-            <a class="block relative p-5 group" href="https://twitter.com/withCyph3rs">
+            <a class="block relative p-5 group" href="https://twitter.com/withCyph3rs" target="_blank">
               <div
                 class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22"
@@ -95,7 +95,7 @@
             </a>
 
             <!-- github -->
-            <a class="block relative p-5 group" href="https://github.com/withCyph3rs">
+            <a class="block relative p-5 group" href="https://github.com/withCyph3rs" target="_blank">
               <div
                 class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3 ">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="24"
@@ -111,7 +111,7 @@
 
 
             <!-- 6th Box -->
-            <a class="block relative p-5 group" href="https://www.youtube.com/@cyph3rs">
+            <a class="block relative p-5 group" href="https://www.youtube.com/@cyph3rs" target="_blank">
               <div
                 class="relative h-12 w-12 rounded-full bg-gradient-to-t from-gray-800 to-gray-700 flex items-center justify-center shadow-lg mb-3">
                 <svg class="fill-green-400 group-hover:fill-gray-200 transition duration-150 ease-in-out" width="22"
