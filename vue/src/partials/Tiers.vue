@@ -112,6 +112,7 @@
                 For experienced searchers looking for great opportunities.
               </div>
 
+              <!--
               <router-link
                 class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group"
                 to="/searchers">
@@ -119,6 +120,17 @@
                 <span
                   class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
               </router-link>
+            -->
+
+            <a href="https://cyph3rs.typeform.com/c/hRH3Z5sd"
+                class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group"
+                to="/searchers">
+                Join as a Searcher
+                <span
+                  class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+             </a>
+
+
 
             </div>
 
@@ -176,6 +188,8 @@
                 For DeFi projects that are affected by MEV extraction.
               </div>
 
+
+            <!---
               <router-link
                 class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-purple-500 w-full shadow-lg group"
                 to="/projects">
@@ -183,6 +197,20 @@
                 <span
                   class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
               </router-link>
+              -->
+
+
+              <a href="https://cyph3rs.typeform.com/c/hRH3Z5sd"
+                class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group"
+                to="/searchers">
+                Join as a Project
+                <span
+                  class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+             </a>
+
+
+
+
 
             </div>
             <ul class="text-gray-400 space-y-3 grow">

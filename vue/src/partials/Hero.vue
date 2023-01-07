@@ -38,7 +38,7 @@
             class="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center md:justify-start space-y-4 sm:space-y-0 sm:space-x-4"
             data-aos="zoom-out" data-aos-delay="300">
             <div>
-              <a href="https://hrvf993g98l.typeform.com/c/hRH3Z5sd"
+              <a href="https://cyph3rs.typeform.com/c/hRH3Z5sd"
                 class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-pink-600 w-full shadow-lg group font-bold">
                 Become a Searcher
               </a>
@@ -51,7 +51,7 @@
 
             <div>
 
-              <a href="https://hrvf993g98l.typeform.com/c/hRH3Z5sd"
+              <a href="https://cyph3rs.typeform.com/c/hRH3Z5sd"
                 class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-pink-600 w-full shadow-lg group font-bold">
                 Hire a Searcher
               </a>
