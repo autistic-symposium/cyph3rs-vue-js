@@ -9,7 +9,7 @@
 
 
         <div class="text-center pb-12 md:pb-20 text-gray-300">
-          <h2 class="h2 font-sora" data-aos="zoom-out">CYPH3RS INTELLIGENCE - Terms of Service</h2>
+          <h2 class="h2 font-sora" data-aos="zoom-out">Terms of Service - CYPH3RS</h2>
         </div>
 
         <div class="relative max-w-6xl mx-auto px-4 sm:px-6 text-green-1 font-bold">
