@@ -201,7 +201,7 @@
 
 
               <a href="https://cyph3rs.typeform.com/c/hRH3Z5sd"
-                class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group"
+                class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-purple-500 w-full shadow-lg group"
                 to="/searchers">
                 Join as a Project
                 <span

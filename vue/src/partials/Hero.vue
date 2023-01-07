@@ -52,7 +52,7 @@
             <div>
 
               <a href="https://cyph3rs.typeform.com/c/hRH3Z5sd"
-                class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-pink-600 w-full shadow-lg group font-bold">
+                class="btn text-gray-800 bg-gradient-to-t from-green-1 hover:to-blue-600 w-full shadow-lg group font-bold">
                 Hire a Searcher
               </a>
 
