@@ -11,6 +11,34 @@
         <!-- Items -->
         <div class="max-w-sm mx-auto grid gap-8 md:grid-cols-3 lg:gap-16 items-start md:max-w-none">
 
+
+          <!-- 3rd item -->
+          <div class="flex flex-col items-center" data-aos="zoom-out" data-aos-delay="400">
+            <div class="mb-4">
+              <svg width="56" height="56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <defs>
+                  <radialGradient cx="50%" cy="89.845%" fx="50%" fy="89.845%" r="89.85%" id="icon3-b">
+                    <stop stop-color="#31e981" stop-opacity=".64" offset="0%" />
+                    <stop stop-color="#35605A" stop-opacity=".876" offset="100%" />
+                  </radialGradient>
+                  <circle id="icon3-a" cx="28" cy="28" r="28" />
+                </defs>
+                <g fill="none" fill-rule="evenodd">
+                  <use fill="url(#icon3-b)" xlink:href="#icon3-a" />
+                  <g stroke="#FDF2F8" stroke-linecap="square" stroke-width="2">
+                    <path d="m18 31 4 4 12-15" />
+                    <path d="M39 25h-3M39 30h-7M39 35H28" opacity=".64" />
+                  </g>
+                </g>
+              </svg>
+            </div>
+            <h4 class="h4 text-gray-200 text-center mb-2">For Builders</h4>
+            <p class="text-lg text-gray-400 text-center font-bold">
+              Learn everything you need to design, strategize, build, and deploy searchers.
+            </p>
+          </div>
+
+
           <!-- 1st item -->
           <div class="flex flex-col items-center" data-aos="zoom-out">
             <div class="mb-4">
@@ -62,31 +90,7 @@
               Connect to a network of searcher operators and bot builders to find partners for your project. </p>
           </div>
 
-          <!-- 3rd item -->
-          <div class="flex flex-col items-center" data-aos="zoom-out" data-aos-delay="400">
-            <div class="mb-4">
-              <svg width="56" height="56" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                <defs>
-                  <radialGradient cx="50%" cy="89.845%" fx="50%" fy="89.845%" r="89.85%" id="icon3-b">
-                    <stop stop-color="#31e981" stop-opacity=".64" offset="0%" />
-                    <stop stop-color="#35605A" stop-opacity=".876" offset="100%" />
-                  </radialGradient>
-                  <circle id="icon3-a" cx="28" cy="28" r="28" />
-                </defs>
-                <g fill="none" fill-rule="evenodd">
-                  <use fill="url(#icon3-b)" xlink:href="#icon3-a" />
-                  <g stroke="#FDF2F8" stroke-linecap="square" stroke-width="2">
-                    <path d="m18 31 4 4 12-15" />
-                    <path d="M39 25h-3M39 30h-7M39 35H28" opacity=".64" />
-                  </g>
-                </g>
-              </svg>
-            </div>
-            <h4 class="h4 text-gray-200 text-center mb-2">For Builders</h4>
-            <p class="text-lg text-gray-400 text-center font-bold">
-              Learn everything you need to design, strategize, build, and deploy searchers.
-            </p>
-          </div>
+
 
         </div>
 

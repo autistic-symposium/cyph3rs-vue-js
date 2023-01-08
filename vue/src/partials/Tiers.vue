@@ -49,13 +49,23 @@
                 For anyone who wants to become a successful searcher operator.
               </div>
 
-              <router-link
+              <a href="https://academy.cyph3rs.xyz/"
+                class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-pink-500 w-full shadow-lg group"
+                to="/searchers">
+                Join the Academy
+                <span
+                  class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
+             </a>
+
+
+              <!--<router-link
                 class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-pink-500 w-full shadow-lg group"
                 to="/rookies">
-                Join as a Rookie
+                Join the Academy
                 <span
                   class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
               </router-link>
+              -->
             </div>
 
             <ul class="text-gray-400 space-y-3 grow">
@@ -89,7 +99,7 @@
                   <path
                     d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                 </svg>
-                <span>Connect with projects and other searchers</span>
+                <span>Connect with other builders and searchers</span>
               </li>
 
 
@@ -123,8 +133,7 @@
             -->
 
             <a href="https://cyph3rs.typeform.com/c/hRH3Z5sd"
-                class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group"
-                to="/searchers">
+                class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-blue-500 w-full shadow-lg group">
                 Join as a Searcher
                 <span
                   class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
@@ -201,8 +210,7 @@
 
 
               <a href="https://cyph3rs.typeform.com/c/hRH3Z5sd"
-                class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-purple-500 w-full shadow-lg group"
-                to="/searchers">
+                class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-purple-500 w-full shadow-lg group">
                 Join as a Project
                 <span
                   class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
