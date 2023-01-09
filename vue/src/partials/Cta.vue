@@ -54,7 +54,7 @@
 
               <a href="https://academy.cyph3rs.xyz/"
                 class="btn text-gray-200 bg-gradient-to-t from-green-1 hover:to-purple-800 w-full group shadow-lg font-bold"
-                to="/searchers">
+                target="_blank">
                 Go to the the Academy
                 <span
                   class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
