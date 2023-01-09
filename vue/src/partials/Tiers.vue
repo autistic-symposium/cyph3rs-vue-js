@@ -16,7 +16,7 @@
             The network of bots-as-a-service defining the future of finance</h2>
           <div class="max-w-2xl mx-auto">
             <p class="text-xl text-gray-400 font-bold">
-              Whether you are just starting the MEV game, or you are an experienced searcher operator: joining CYPH3RS will level up your game
+              Whether you;rre starting the MEV game, or you're an experienced searcher operator, joining CYPH3RS will level up your game
             </p>
           </div>
 
