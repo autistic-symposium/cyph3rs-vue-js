@@ -33,7 +33,7 @@
           <!-- CTA content -->
           <div class="mb-6 lg:mr-16 lg:mb-0 text-center lg:text-left">
             <h3 class="text-4xl font-bold font-sora mb-2 text-gray-200">
-              Build and deploy your own MEV bot
+              Build and deploy your own MEV bots
             </h3>
 
             <p class="text-gray-900 font-bold">
@@ -55,7 +55,7 @@
               <a href="https://academy.cyph3rs.xyz/"
                 class="btn text-gray-200 bg-gradient-to-t from-green-1 hover:to-purple-800 w-full group shadow-lg font-bold"
                 to="/searchers">
-                Become a web3 legend
+                Teach me, sir
                 <span
                   class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
              </a>
