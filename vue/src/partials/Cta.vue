@@ -37,7 +37,7 @@
             </h3>
 
             <p class="text-gray-900 font-bold">
-              Learn from our classes, bot templates, and state-of-art research.
+              Learn from our expertise classes, bot templates, and state-of-art research.
               Design innovative strategies and conquer the chains while building your reputation.</p>
           </div>
 
