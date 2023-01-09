@@ -52,7 +52,7 @@
               <a href="https://academy.cyph3rs.xyz/"
                 class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-pink-500 w-full shadow-lg group"
                 to="/searchers">
-                Join the Academy
+                Go to the Academy
                 <span
                   class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
              </a>
@@ -61,7 +61,7 @@
               <!--<router-link
                 class="btn-sm text-white font-bold bg-gradient-to-t from-green-1 hover:to-pink-500 w-full shadow-lg group"
                 to="/rookies">
-                Join the Academy
+                 Go to the Academy
                 <span
                   class="tracking-normal text-blue-200 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">-&gt;</span>
               </router-link>
