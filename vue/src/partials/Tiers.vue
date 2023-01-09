@@ -116,7 +116,7 @@
             <div class="mb-6">
 
               <div class="text-lg font-bold mb-1">
-                Searcher Operators</div>
+                Searchers</div>
 
               <div class="text-gray-400 mb-6 font-bold">
                 Experienced searchers looking for great opportunities.
