@@ -28,7 +28,7 @@ export default {
     title: {
       immediate: true,
       handler() {
-        document.title = 'CYPH3RS - Privacy Policy';
+        document.title = 'Privacy Policy - Cyph3rs';
       }
     }
   },

@@ -29,7 +29,7 @@ export default {
     title: {
       immediate: true,
       handler() {
-        document.title = 'CYPH3RS - Terms of Service';
+        document.title = 'Terms of Service - Cyph3rs';
       }
     }
   },

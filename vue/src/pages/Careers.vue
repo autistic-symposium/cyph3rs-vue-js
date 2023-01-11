@@ -29,7 +29,7 @@ export default {
     title: {
       immediate: true,
       handler() {
-        document.title = 'Careers - CYPH3RS';
+        document.title = 'Careers - Cyph3rs';
       }
     }
   },
