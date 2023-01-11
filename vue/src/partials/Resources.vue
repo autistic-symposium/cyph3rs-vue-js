@@ -27,7 +27,7 @@
                     fill-rule="nonzero" />
                 </svg>
               </div>
-              <div class="text-xl text-gray-100 font-bold">Blog</div>
+              <div class="text-xl text-gray-100 font-bold">Mirror</div>
             </a>
 
             <!-- 5th Box -->
