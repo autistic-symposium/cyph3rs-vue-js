@@ -195,7 +195,7 @@
             <div class="mb-6">
               <div class="text-lg font-bold mb-1">Protocols</div>
               <div class="text-gray-400 mb-6 font-bold">
-                DeFi projects that are affected by MEV extraction
+                DeFi projects that are delivering solutions for MEV
               </div>
 
 
