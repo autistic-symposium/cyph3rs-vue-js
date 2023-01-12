@@ -45,7 +45,7 @@
 
               <li class="ml-3">
               <div class="text-x text-gray-200 font-bold">
-                <a href="https://cyph3rs-xyz-brazil.vercel.app/">
+                <a href="https://brasil.cyph3rs.xyz/">
                     BR  
                 </a>
               
