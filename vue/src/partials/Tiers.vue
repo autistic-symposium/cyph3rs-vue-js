@@ -17,7 +17,7 @@
           <div class="max-w-2xl mx-auto">
             <p class="text-xl text-gray-400 font-bold">
           
-              Whether you are starting the MEV game, an experienced searcher operator, or you are an application-layer MEV
+              Whether you are just starting the MEV game, an experienced searcher operator, or an application-layer MEV
               protocol, we are here for you
           </p>
           </div>
