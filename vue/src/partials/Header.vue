@@ -18,10 +18,13 @@
 
           <!-- Desktop sign in links -->
           <ul class="flex grow justify-end flex-wrap items-center">
-            <li class="ml-3">
+          
 
+
+            
               <!-- CONNECT WALLET -->
 
+              <li class="ml-3">
               <div v-if="isActivated" class="flex items-center">
                 <button @click="disconnect"
                   class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group">
@@ -35,10 +38,31 @@
                   Connect Wallet
                 </button>
               </div>
-
+            </li>
               <!-- END CONNECT WALLET -->
 
+
+
+              <li class="ml-3">
+              <div class="text-x text-gray-200 font-bold">
+                <a href="https://cyph3rs-xyz-brazil.vercel.app/">
+                    BR  
+                </a>
+              
+              </div>              
             </li>
+
+            <li class="ml-3">
+              <div class="text-x text-gray-200 font-bold">
+                DE
+              
+              </div>              
+            </li>
+
+
+
+
+
           </ul>
         </nav>
 
