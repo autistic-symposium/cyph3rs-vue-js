@@ -1,4 +1,4 @@
-# CYPH3RS Platform Frontend
+# Cyph3rs Frontend
 
 ---
 
