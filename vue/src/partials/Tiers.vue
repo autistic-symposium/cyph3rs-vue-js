@@ -47,7 +47,7 @@
             <div class="mb-6">
               <div class="text-lg font-bold mb-1">Builders</div>
               <div class="text-gray-400 mb-6 font-bold">
-                Anyone who wants to become a successful searcher operator.
+                Anyone who wants to become a successful searcher operator
               </div>
 
               <a href="https://academy.cyph3rs.xyz/"
@@ -120,7 +120,7 @@
                 Searchers</div>
 
               <div class="text-gray-400 mb-6 font-bold">
-                Experienced searchers looking for great opportunities.
+                Experienced searchers looking for great opportunities
               </div>
 
               <!--
@@ -195,7 +195,7 @@
             <div class="mb-6">
               <div class="text-lg font-bold mb-1">Protocols</div>
               <div class="text-gray-400 mb-6 font-bold">
-                DeFi projects that are affected by MEV extraction.
+                DeFi projects that are affected by MEV extraction
               </div>
 
 
