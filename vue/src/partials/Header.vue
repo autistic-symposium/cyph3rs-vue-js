@@ -45,8 +45,8 @@
 
               <li class="ml-3">
               <div class="text-x text-gray-200 font-bold">
-                <a href="https://brasil.cyph3rs.xyz/">
-                    BR  
+                <a href="http://pt.cyph3rs.xyz/">
+                    PT  
                 </a>
               
               </div>              
