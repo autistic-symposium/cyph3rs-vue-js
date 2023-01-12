@@ -18,7 +18,7 @@
             <p class="text-xl text-gray-400 font-bold">
           
               Whether you are just starting, an experienced searcher operator, or an application-layer MEV
-              protocol, Cyph3rs is the marketplace for you
+              protocol, Cyph3rs is the marketplace for you.
           </p>
           </div>
 
