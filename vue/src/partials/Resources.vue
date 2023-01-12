@@ -6,7 +6,7 @@
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
           <h2 class="h2 font-sora">
-            Ready to start?
+            Ready to begin?
           </h2>
         </div>
 
