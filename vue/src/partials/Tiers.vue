@@ -17,7 +17,8 @@
           <div class="max-w-2xl mx-auto">
             <p class="text-xl text-gray-400 font-bold">
           
-              Whether you are starting the MEV game or an experienced searcher operator, join Cyph3rs to level up your game!
+              Whether you are starting the MEV game, an experienced searcher operator, or you are an application-layer MEV
+              protocol, we are here for you
           </p>
           </div>
 
