@@ -13,7 +13,7 @@ const app = createApp(App)
 
 const TOAST_DEFAULT_OPTIONS = {
   position: 'bottom-center',
-  autoClose: 3000,
+  autoClose: 5000,
   closeOnClick: true,
   hideProgressBar: false
 };
