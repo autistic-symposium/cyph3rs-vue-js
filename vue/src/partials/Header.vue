@@ -91,9 +91,7 @@ import { useToast } from "vue-toastification";
 const { disconnect } = useWallet()
 const { open } = useBoard()
 const { address, isActivated, dnsAlias } = useEthers()
-
 const toast = useToast();
-
 
 
 //////////////////////
@@ -121,9 +119,9 @@ const connectors = [
   }),
 ];
 
-// if a connector show a toast message
+// REMOVE WHEN DASHBOARD IS READY
 const connect = async (connector: any) => {
-    toast.error('The dashboards are not available yet. Stay tuned!');
+    toast.error("Dashboards are not available yet. Please sign up for our waitlist, and we will notify you when it's ready. Or come back in a few weeks!");
 };
 
 

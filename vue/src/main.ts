@@ -11,8 +11,6 @@ import './css/style.css'
 
 const app = createApp(App)
 
-export const BOTTOM_CENTER = 'bottom-center';
-
 const TOAST_DEFAULT_OPTIONS = {
   position: 'bottom-center',
   autoClose: 3000,
