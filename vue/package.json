@@ -13,12 +13,13 @@
     "rollup-plugin-polyfill-node": "^0.11.0",
     "vue": "^3.2.45",
     "vue-dapp": "^0.6.2",
-    "vue-router": "4"
+    "vue-router": "4",
+    "vue-toastification": "^2.0.0-rc.5"
   },
   "devDependencies": {
     "@rollup/plugin-inject": "^5.0.2",
-    "@vitejs/plugin-vue": "^3.2.0",
     "@tailwindcss/forms": "^0.5.2",
+    "@vitejs/plugin-vue": "^3.2.0",
     "autoprefixer": "^10.4.2",
     "postcss": "^8.4.5",
     "tailwindcss": "^3.0.11",

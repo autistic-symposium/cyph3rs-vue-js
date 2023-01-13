@@ -25,15 +25,17 @@
               <!-- CONNECT WALLET -->
 
               <li class="ml-3">
+              
+
               <div v-if="isActivated" class="flex items-center">
-                <button @click="disconnect"
+                <button @click="disconnect" 
                   class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group">
                   Connected to {{ dnsAlias || shortenAddress(address) }}
                 </button>
               </div>
 
               <div v-else @click="open" class="flex items-center">
-                <button @click="connect"
+                <button @click="connect" 
                   class="btn-sm text-gray-200 bg-gradient-to-t from-green-2 hover:to-purple-500 w-full shadow-lg font-bold group">
                   Connect Wallet
                 </button>
@@ -79,15 +81,20 @@
 
 import { MetaMaskConnector, WalletConnectConnector, CoinbaseWalletConnector } from 'vue-dapp';
 import { useBoard, useEthers, shortenAddress, useWallet } from 'vue-dapp'
+import { useToast } from "vue-toastification";
 
 
 //////////////////////
 // CONSTANTS
 //////////////////////
 
-const { wallet, disconnect, onDisconnect, onAccountsChanged, onChainChanged } = useWallet()
+const { disconnect } = useWallet()
 const { open } = useBoard()
-const { address, balance, isActivated, dnsAlias } = useEthers()
+const { address, isActivated, dnsAlias } = useEthers()
+
+const toast = useToast();
+
+
 
 //////////////////////
 // CONNECT WALLET
@@ -107,11 +114,21 @@ const connectors = [
     },
   }),
 
+
   new CoinbaseWalletConnector({
     appName: 'CYPH3RS INTELLIGENCE ',
     jsonRpcUrl: `https://mainnet.infura.io/v3/${infuraId}`,
   }),
 ];
+
+// if a connector show a toast message
+const connect = async (connector: any) => {
+    toast.error('The dashboards are not available yet. Stay tuned!');
+};
+
+
+
+
 
 
 //////////////////////
@@ -122,5 +139,7 @@ const navigation: { name: string; href: string }[] = [
     name: 'Header'
   },
 ]
+
+
 
 </script>
