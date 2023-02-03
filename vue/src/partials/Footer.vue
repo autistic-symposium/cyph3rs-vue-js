@@ -10,7 +10,7 @@
             <h6 class="text-s font-bold mb-2">
               <router-link class="text-gray-600 hover:text-green-400 transition duration-150 ease-in-out font-bold"
                 to="/privacy">
-                Privacy Policy
+                Priv4cy Policy
               </router-link>
             </h6>
 
@@ -29,7 +29,7 @@
           <div class="lg:col-span-1">
             <h5 class="text-xs text-gray-00 font-bold mb-2">
 
-              CYPH3RS INTELLIG3NCE © 2053
+              CYPH3RS INTELLIG3NCE © 2037
 
             </h5>
           </div>
