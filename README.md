@@ -2,7 +2,8 @@
 
 <br>
 
-<img width="900"  src="https://github.com/midsumm3rDAO/cyph3rs.xyz-frontend/assets/1130416/94d93bff-590f-4b99-bf2c-18009c7b2ec2">
+<img width="900"  src="https://github.com/go-outside-labs/cyph3rs.xyz-frontend/assets/1130416/1c320ff3-b985-43d0-9392-7e3715d8348f">
+
 
 
 <br>
