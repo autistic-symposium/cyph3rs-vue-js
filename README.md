@@ -1,4 +1,4 @@
-# Cyph3rs Frontend
+## cyph3rs.xyz frontend
 
 ---
 
