@@ -1,8 +1,15 @@
 ## cyph3rs.xyz frontend
 
+<br>
+
+<img width="900"  src="https://github.com/midsumm3rDAO/cyph3rs.xyz-frontend/assets/1130416/94d93bff-590f-4b99-bf2c-18009c7b2ec2">
+
+
+<br>
+
 ---
 
-## Development
+### Development
 
 To change code:
 
@@ -14,9 +21,11 @@ npm run dev
 
 You can check changes at `localhost`.
 
+<br>
+
 ---
 
-## Deployment 
+### Deployment 
 
 Once you are satisfied with the changes, run:
 
@@ -30,14 +39,13 @@ Then create a PR, first to `staging`, then to `main` (see below).
 
 * branch `main`
 * only merge after pr review
-* Link: [cyph3rs.xyz](https://www.cyph3rs.xyz)
 
 
 #### staging: 
 
 * branch `staging`
 * just push a pr to this branch to staging
-* link: [staging.searchers.market](https://staging.searchers.market) (at some point this need to be protected under under creds or removed)
+
 
 <br>
 
@@ -47,11 +55,12 @@ Then create a PR, first to `staging`, then to `main` (see below).
 
 </p>
 
+<br>
+
 ---
 
-## Contributing
+### Contributing
 
-####
 
 All code must be formatted by [volar](https://github.com/johnsoncodehk/volar)
 
